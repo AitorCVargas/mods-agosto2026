@@ -420,6 +420,11 @@ hash = "431cba5943271c71613cb6bd8f8a1c4d99cd2a6f46151ed95f1aeea42f29b0ab"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
 file = "mods/leavesbegone-v21.1.1-1.21.1-neoforge.pw.toml"
 hash = "1e6a1b211f76c2b45f4bfb3cc51f0f87e32da2e68f9b4ea2ff5a7ccbb64516a9"
 metafile = true
@@ -572,6 +577,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.pw.toml"
 hash = "2238f1e0308a5a5c6321f17addfa5a121d013320aba5c435b56955d6bd672169"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
 metafile = true
 
 [[files]]
