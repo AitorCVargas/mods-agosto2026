@@ -1,0 +1,4 @@
+﻿#Client configuration settings
+[general]
+	moveGoggleToEyes = false
+	enableCreativeModeGoggles = false

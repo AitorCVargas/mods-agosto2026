@@ -190,11 +190,6 @@ hash = "b95fe6d1cd5c3b1876aa38bca434f4816a3cfd3d8f8fda43d24d470b0b975394"
 metafile = true
 
 [[files]]
-file = "mods/creategoggles-1.21.1-6.1.1--neoforge.pw.toml"
-hash = "c2aaab9495f035a92a82bf161737e04930c8ec6849c2d9f238c7f55fbc4fbd9b"
-metafile = true
-
-[[files]]
 file = "mods/createliquidfuel-2.1.1-1.21.1.pw.toml"
 hash = "99487f9a2b8d25c023121cfb1096f06ca96ce982b468edf842799977cb780fb4"
 metafile = true
@@ -1248,6 +1243,10 @@ file = "overrides/config/createaddition-common.toml"
 hash = "a3e4db70c22ed9354b54e21de5c1875cddb43432ba4e4f83076a8751a75b7714"
 
 [[files]]
+file = "overrides/config/creategoggles-client.toml"
+hash = "25edef4958af768d49d6f2bb1a184e2e78d2d15017c8f1ba6937e85d595561a8"
+
+[[files]]
 file = "overrides/config/creativecore-client.json"
 hash = "acb6c8c1394d4d6f2d0c98d5c314c5ef8ad34b8a76f0a420fc596733bcbc51ac"
 
@@ -2081,7 +2080,7 @@ hash = "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4"
 
 [[files]]
 file = "overrides/config/oculus.properties"
-hash = "4d76a3d14c4c115cd4c36fdb999b4fd93dcd7338ca58bc4b90563fe57a071da6"
+hash = "e97d1b056dd68b7a65b29dd5c2b927a002be672b2070240945ead9fa32eb3de3"
 
 [[files]]
 file = "overrides/config/particle_core_config.toml"
