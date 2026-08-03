@@ -580,11 +580,6 @@ hash = "2fc96ad02507415715d1a7ce60cb8c5c0b84e77d313b044207116358465db441"
 metafile = true
 
 [[files]]
-file = "mods/observable-5.4.4.pw.toml"
-hash = "f53d242b579ec435b8833f52c515e7003f30f6486746cf1ec2c2982af5e7f697"
-metafile = true
-
-[[files]]
 file = "mods/occultism-1.21.1-neoforge-1.224.1.pw.toml"
 hash = "1ba6873d7c1f7cb03bafa536f22a4402d2697e81e430bcbf82724c08fcdc823c"
 metafile = true
@@ -2100,10 +2095,6 @@ file = "overrides/config/notenoughanimations.json"
 hash = "45121987f8bbbb948bd5096ffb02b1361c762b3e34836b3f9097a9a4ef7222d4"
 
 [[files]]
-file = "overrides/config/observable.json"
-hash = "b7811808041d0b4d32c8b83ae51dff02da43da6572aa85ab7560bcff97b3797e"
-
-[[files]]
 file = "overrides/config/oculus.properties"
 hash = "4d76a3d14c4c115cd4c36fdb999b4fd93dcd7338ca58bc4b90563fe57a071da6"
 
@@ -2949,7 +2940,7 @@ hash = "34bd840a3bf8d6934c9bf6f11ce6540ab2decbf5c5039c0b9aaba3b2979ceae3"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "3f4dc997bb556b97667d8d334a2e20ad6da66fc6900d512f65cf2e43ce5d9f79"
+hash = "7709b29c23ecdd4ca0f09182287b4aaf98e30c13833ab5207721c5eadb378f13"
 
 [[files]]
 file = "overrides/resourcepacks/FA_Player_Extension_v1.1.zip"
