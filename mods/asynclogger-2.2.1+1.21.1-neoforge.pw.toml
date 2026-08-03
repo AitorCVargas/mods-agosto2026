@@ -1,6 +1,6 @@
 name = "Async Logger 2.2.1+1.21.1-neoforge"
 filename = "asynclogger-2.2.1+1.21.1-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/zvNzKfGF/versions/i5z8ZG27/asynclogger-2.2.1%2B1.21.1-neoforge.jar"

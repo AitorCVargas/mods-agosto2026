@@ -1,7 +1,7 @@
 version:3955
 ao:false
 biomeBlendRadius:0
-enableVsync:false
+enableVsync:true
 entityDistanceScaling:0.5
 entityShadows:false
 forceUnicodeFont:false
@@ -16,7 +16,7 @@ fullscreen:false
 gamma:0.5
 graphicsMode:0
 guiScale:3
-maxFps:260
+maxFps:100
 mipmapLevels:1
 narrator:0
 particles:2
@@ -205,8 +205,6 @@ key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.g
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_keybinds.bettercombat.feint:key.keyboard.unknown
-key_keybinds.bettercombat.toggle_mine_with_weapons:key.keyboard.unknown
 key_key.punchy.open_main_menu:key.keyboard.f8
 key_key.punchy.inspect:key.keyboard.i
 key_key.toggleVisualItemContents:key.keyboard.unknown
@@ -274,10 +272,10 @@ key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.carry.desc:key.keyboard.unknown
-key_key.twilightforest.swap_hotbar:key.keyboard.v
-key_key.twilightforest.zoom:key.keyboard.z
-key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
 key_key.twilightforest.red_thread_vision:key.keyboard.unknown
+key_key.twilightforest.zoom:key.keyboard.z
+key_key.twilightforest.swap_hotbar:key.keyboard.v
+key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
 key_key.cataclysm.ability:key.keyboard.v
 key_key.cataclysm.helmet_ability:key.keyboard.unknown
 key_key.cataclysm.chestplate_ability:key.keyboard.y

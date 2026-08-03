@@ -1,6 +1,6 @@
 name = "[NEOFORGE][1.21.1] Camera Mod 1.21.1-1.0.21"
 filename = "camera-neoforge-1.21.1-1.0.21.jar"
-side = "client"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/oiuNWinn/versions/Etw6aqhL/camera-neoforge-1.21.1-1.0.21.jar"

@@ -1,6 +1,6 @@
 name = "particle_core-0.3.3+1.21+neoforge"
 filename = "particle_core-0.3.3+1.21+neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/RSeLon5O/versions/2QF4NhZD/particle_core-0.3.3%2B1.21%2Bneoforge.jar"
