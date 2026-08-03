@@ -205,11 +205,6 @@ hash = "ce0dbfa3537a209fecd55bd8499067e409d2d43f07524ad1bbbef52e27337ee7"
 metafile = true
 
 [[files]]
-file = "mods/createthreadedtrains-neoforge-1.21.1-1.0.0.pw.toml"
-hash = "b8041b1c5a4c4e5c8b620d560671d357a945d003f8ddd2a1dd8a252da364867f"
-metafile = true
-
-[[files]]
 file = "mods/creativecore_neoforge_v2.13.41_mc1.21.1.pw.toml"
 hash = "a9af20418b344a67efe3a5aa51ffee324e4707558f6518f103eab1c9939784f4"
 metafile = true
@@ -642,11 +637,6 @@ metafile = true
 [[files]]
 file = "mods/puzzleslib-v21.1.52-1.21.1-neoforge.pw.toml"
 hash = "29bfbf14c954e5c4fc19d0f3ea9c42167c7956b1c249cf2329fe8f76a3789f1a"
-metafile = true
-
-[[files]]
-file = "mods/railways-0.3.0-beta.2+neoforge-mc1.21.1.pw.toml"
-hash = "e0ccae4c6d4bb5ad833558dda31e8e28143ef89d0372d47a44336f2283d924e8"
 metafile = true
 
 [[files]]
