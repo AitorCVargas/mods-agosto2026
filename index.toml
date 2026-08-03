@@ -515,6 +515,11 @@ hash = "2238f1e0308a5a5c6321f17addfa5a121d013320aba5c435b56955d6bd672169"
 metafile = true
 
 [[files]]
+file = "mods/particle-core.pw.toml"
+hash = "7333c29c224d843384e26b2c7d9af1d31dada870d776fb1ad8f3d8c3040b313d"
+metafile = true
+
+[[files]]
 file = "mods/patchouli-1.21.1-93-neoforge.pw.toml"
 hash = "c5a66a2b4d4cf35d262fce865718ea15c454d5e3b4b0d0a891c7a220065ac072"
 metafile = true
