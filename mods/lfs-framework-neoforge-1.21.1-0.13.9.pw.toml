@@ -1,8 +1,0 @@
-name = "framework-neoforge-1.21.1-0.13.9.jar"
-filename = "framework-neoforge-1.21.1-0.13.9.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/framework-neoforge-1.21.1-0.13.9.jar"
-hash-format = "sha256"
-hash = "343a040a90eaf2a1153e6be235f520ee73ae021d65fdc4c9a9fe28263bce9756"

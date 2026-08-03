@@ -1,8 +1,0 @@
-name = "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
-filename = "YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
-hash-format = "sha256"
-hash = "098be3e26a31436530d41b045d64c34159df9100b8d7d01c7c3a661bb8303650"

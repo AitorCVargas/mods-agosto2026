@@ -1,8 +1,0 @@
-name = "crabbersdelight-1.21.1-1.2.6.jar"
-filename = "crabbersdelight-1.21.1-1.2.6.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/crabbersdelight-1.21.1-1.2.6.jar"
-hash-format = "sha256"
-hash = "7c3b159c9a724e49bf2eb412ff969af1a2ec5bf68257ddf31a446c99f56cf5f0"

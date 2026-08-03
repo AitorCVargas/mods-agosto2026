@@ -1,8 +1,0 @@
-name = "PortableCraftingTable-neoforge-1.21.1-3.2.6.jar"
-filename = "PortableCraftingTable-neoforge-1.21.1-3.2.6.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/PortableCraftingTable-neoforge-1.21.1-3.2.6.jar"
-hash-format = "sha256"
-hash = "61f158b46c7f543d538ed4713269203436cdfd702cce8ae44e972a382a188a03"

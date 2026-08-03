@@ -1,8 +1,0 @@
-name = "journeymap-neoforge-1.21.1-6.0.0-beta.52.jar"
-filename = "journeymap-neoforge-1.21.1-6.0.0-beta.52.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar"
-hash-format = "sha256"
-hash = "a8288069cd46f5d63543f7c0119bb0ae7f6a8c6d9aa7032c258b7e097cac9f04"

@@ -1,8 +1,0 @@
-name = "artifacts-neoforge-13.2.1.jar"
-filename = "artifacts-neoforge-13.2.1.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/artifacts-neoforge-13.2.1.jar"
-hash-format = "sha256"
-hash = "ef6fd9a0d81622aed205d9f97c5adb1e9c88b5cbb80925ee36792c8613e3ac2b"

@@ -1,0 +1,13 @@
+name = "[NEOFORGE][1.21.1] Camera Mod 1.21.1-1.0.21"
+filename = "camera-neoforge-1.21.1-1.0.21.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/oiuNWinn/versions/Etw6aqhL/camera-neoforge-1.21.1-1.0.21.jar"
+hash-format = "sha1"
+hash = "9288ee504ed92b4fb535f2c6dc94451ec1c00752"
+
+[update]
+[update.modrinth]
+mod-id = "oiuNWinn"
+version = "Etw6aqhL"

@@ -1,8 +1,0 @@
-name = "ftb-chunks-neoforge-2101.1.13.jar"
-filename = "ftb-chunks-neoforge-2101.1.13.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/ftb-chunks-neoforge-2101.1.13.jar"
-hash-format = "sha256"
-hash = "d0f0b569668ed6134ff8b9a020a5d0f1f68074b166a889a7c8422bd55e386c50"

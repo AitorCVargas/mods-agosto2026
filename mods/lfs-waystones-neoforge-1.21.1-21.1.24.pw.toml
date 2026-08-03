@@ -1,8 +1,0 @@
-name = "waystones-neoforge-1.21.1-21.1.24.jar"
-filename = "waystones-neoforge-1.21.1-21.1.24.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/waystones-neoforge-1.21.1-21.1.24.jar"
-hash-format = "sha256"
-hash = "34bd840a3bf8d6934c9bf6f11ce6540ab2decbf5c5039c0b9aaba3b2979ceae3"

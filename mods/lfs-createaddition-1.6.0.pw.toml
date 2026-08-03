@@ -1,8 +1,0 @@
-name = "createaddition-1.6.0.jar"
-filename = "createaddition-1.6.0.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/createaddition-1.6.0.jar"
-hash-format = "sha256"
-hash = "7d32d3fab2904ba6dcfc4d8dd8863ddfb06ee5df67a7793bec970fafb54e252d"

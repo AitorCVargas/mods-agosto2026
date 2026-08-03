@@ -1,8 +1,0 @@
-name = "irons_spellbooks-1.21.1-3.16.2.jar"
-filename = "irons_spellbooks-1.21.1-3.16.2.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/irons_spellbooks-1.21.1-3.16.2.jar"
-hash-format = "sha256"
-hash = "04ca2c89397f245e2b701350e437fb086d67ef28b889c9dd0e10d13fd65e9c10"

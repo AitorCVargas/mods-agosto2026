@@ -1,8 +1,0 @@
-name = "almostunified-neoforge-1.21.1-1.4.2.jar"
-filename = "almostunified-neoforge-1.21.1-1.4.2.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/almostunified-neoforge-1.21.1-1.4.2.jar"
-hash-format = "sha256"
-hash = "5756812184ecca82f12cc571e8f86256c08ec68fd5d8a7b418f25f50473282ee"

@@ -1,8 +1,0 @@
-name = "FramedBlocks-10.6.1.jar"
-filename = "FramedBlocks-10.6.1.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/FramedBlocks-10.6.1.jar"
-hash-format = "sha256"
-hash = "a0631d8c701e092bdedb0ca59767fd31b63e45ff4a376f1b4ce8d126a986b0a8"

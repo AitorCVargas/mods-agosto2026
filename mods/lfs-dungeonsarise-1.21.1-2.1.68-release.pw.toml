@@ -1,8 +1,0 @@
-name = "DungeonsArise-1.21.1-2.1.68-release.jar"
-filename = "DungeonsArise-1.21.1-2.1.68-release.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/DungeonsArise-1.21.1-2.1.68-release.jar"
-hash-format = "sha256"
-hash = "fe15cd09809defcb9ac75472deb7438cbb95c7784400bf9054579d648df2a3d0"

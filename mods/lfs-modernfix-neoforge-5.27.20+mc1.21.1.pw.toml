@@ -1,8 +1,0 @@
-name = "modernfix-neoforge-5.27.20+mc1.21.1.jar"
-filename = "modernfix-neoforge-5.27.20+mc1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/modernfix-neoforge-5.27.20+mc1.21.1.jar"
-hash-format = "sha256"
-hash = "c8c6cba33c6cc495f460fe5929dc7c1c5200b140a848cffd67571f75f367d153"

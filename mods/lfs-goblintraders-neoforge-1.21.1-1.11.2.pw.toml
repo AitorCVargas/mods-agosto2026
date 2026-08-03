@@ -1,8 +1,0 @@
-name = "goblintraders-neoforge-1.21.1-1.11.2.jar"
-filename = "goblintraders-neoforge-1.21.1-1.11.2.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/goblintraders-neoforge-1.21.1-1.11.2.jar"
-hash-format = "sha256"
-hash = "34185ab2e4527c8b715434174579055ad5eff8fde1e2685e6ac10e48a343a171"

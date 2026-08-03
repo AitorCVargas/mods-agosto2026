@@ -1,8 +1,0 @@
-name = "deeperdarker-neoforge-1.21.1-1.4.1.jar"
-filename = "deeperdarker-neoforge-1.21.1-1.4.1.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/deeperdarker-neoforge-1.21.1-1.4.1.jar"
-hash-format = "sha256"
-hash = "47b45658fdbe8732b4a09bf34d34d109db4fb563308a8f13a4a08b7572f966c2"

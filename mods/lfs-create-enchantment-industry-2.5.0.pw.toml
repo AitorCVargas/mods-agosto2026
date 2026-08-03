@@ -1,8 +1,0 @@
-name = "create-enchantment-industry-2.5.0.jar"
-filename = "create-enchantment-industry-2.5.0.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/create-enchantment-industry-2.5.0.jar"
-hash-format = "sha256"
-hash = "5d9fcc08e58bc88f0fcaec04407004e8574977d2ad8d10058d1a0c0a40f54690"

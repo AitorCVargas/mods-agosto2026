@@ -1,8 +1,0 @@
-name = "create-1.21.1-6.0.10.jar"
-filename = "create-1.21.1-6.0.10.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/create-1.21.1-6.0.10.jar"
-hash-format = "sha256"
-hash = "8ade5205a15f7631f479142f9f88f2ad50291e2259ccbf839a06f36865060f96"

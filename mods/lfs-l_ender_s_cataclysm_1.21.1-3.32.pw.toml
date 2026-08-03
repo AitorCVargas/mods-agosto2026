@@ -1,8 +1,0 @@
-name = "L_Ender's Cataclysm 1.21.1-3.32.jar"
-filename = "L_Ender's Cataclysm 1.21.1-3.32.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/L_Ender's Cataclysm 1.21.1-3.32.jar"
-hash-format = "sha256"
-hash = "2ee92c519e7c9ac281da2d0e5832a9cdf5cc3ffb86521c0b74febb1ffedf6b94"

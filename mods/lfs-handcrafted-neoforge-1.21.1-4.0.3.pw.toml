@@ -1,8 +1,0 @@
-name = "handcrafted-neoforge-1.21.1-4.0.3.jar"
-filename = "handcrafted-neoforge-1.21.1-4.0.3.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
-hash-format = "sha256"
-hash = "5b2a10c9be97be2f6318811d3299588d20258ba5ad59b1a7e40c9a84e98519dd"

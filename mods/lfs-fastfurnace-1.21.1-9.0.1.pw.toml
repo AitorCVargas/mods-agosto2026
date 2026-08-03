@@ -1,8 +1,0 @@
-name = "FastFurnace-1.21.1-9.0.1.jar"
-filename = "FastFurnace-1.21.1-9.0.1.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/FastFurnace-1.21.1-9.0.1.jar"
-hash-format = "sha256"
-hash = "bc73bddcb60295c4f0eb1a3e4ccf2e909a4efe1afa7fa10039622912b78d5505"

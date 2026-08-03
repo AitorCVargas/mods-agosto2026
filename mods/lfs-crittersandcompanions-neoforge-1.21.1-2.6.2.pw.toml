@@ -1,8 +1,0 @@
-name = "crittersandcompanions-neoforge-1.21.1-2.6.2.jar"
-filename = "crittersandcompanions-neoforge-1.21.1-2.6.2.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/crittersandcompanions-neoforge-1.21.1-2.6.2.jar"
-hash-format = "sha256"
-hash = "06ecb4bb1733e4c76421c795e056ffbb531450aa278d6d1650697d86b15fc7dd"

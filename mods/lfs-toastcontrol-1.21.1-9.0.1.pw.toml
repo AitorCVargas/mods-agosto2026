@@ -1,8 +1,0 @@
-name = "ToastControl-1.21.1-9.0.1.jar"
-filename = "ToastControl-1.21.1-9.0.1.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/ToastControl-1.21.1-9.0.1.jar"
-hash-format = "sha256"
-hash = "c05c0c0f3b36b822cfa982ae25a255af021c9fd49a07e23328c6c36bb082bce5"

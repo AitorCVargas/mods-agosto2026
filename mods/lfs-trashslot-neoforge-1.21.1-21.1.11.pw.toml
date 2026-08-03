@@ -1,8 +1,0 @@
-name = "trashslot-neoforge-1.21.1-21.1.11.jar"
-filename = "trashslot-neoforge-1.21.1-21.1.11.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/trashslot-neoforge-1.21.1-21.1.11.jar"
-hash-format = "sha256"
-hash = "2f9e7382e6390a3e37655b9c98646ebb26ff91769df6b550feb1e88758bd44b2"

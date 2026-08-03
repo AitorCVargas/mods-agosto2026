@@ -1,8 +1,0 @@
-name = "MutantMonsters-v21.1.1-1.21.1-NeoForge.jar"
-filename = "MutantMonsters-v21.1.1-1.21.1-NeoForge.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar"
-hash-format = "sha256"
-hash = "ff768d6451a2e70109df45b9e14f1115655ef5cf17be330445ffc18da929bc81"

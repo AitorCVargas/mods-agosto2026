@@ -1,8 +1,0 @@
-name = "letsdo-brewery-neoforge-2.1.9.jar"
-filename = "letsdo-brewery-neoforge-2.1.9.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/letsdo-brewery-neoforge-2.1.9.jar"
-hash-format = "sha256"
-hash = "0f1ad7761761d9834035feb83fe9c98f8c8249363d3a7e25c11601e49b7f5dd0"

@@ -1,8 +1,0 @@
-name = "Jade-1.21.1-NeoForge-15.10.5.jar"
-filename = "Jade-1.21.1-NeoForge-15.10.5.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/Jade-1.21.1-NeoForge-15.10.5.jar"
-hash-format = "sha256"
-hash = "7b8e5753d5d5a58b30badf72cd6d33d196c75b1bd8fddb8a6faf5227db1fe4e1"

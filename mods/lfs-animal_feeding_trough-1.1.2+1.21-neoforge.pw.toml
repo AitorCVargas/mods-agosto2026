@@ -1,8 +1,0 @@
-name = "animal_feeding_trough-1.1.2+1.21-neoforge.jar"
-filename = "animal_feeding_trough-1.1.2+1.21-neoforge.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/animal_feeding_trough-1.1.2+1.21-neoforge.jar"
-hash-format = "sha256"
-hash = "9c81a07c1ab73cdc2cc20d667be23067e41d9cb2b2243ffae4e4daf3b4c907f2"

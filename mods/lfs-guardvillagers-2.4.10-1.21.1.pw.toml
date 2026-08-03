@@ -1,8 +1,0 @@
-name = "guardvillagers-2.4.10-1.21.1.jar"
-filename = "guardvillagers-2.4.10-1.21.1.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/guardvillagers-2.4.10-1.21.1.jar"
-hash-format = "sha256"
-hash = "c76a70daf3fb8b5cff26c2bf50d1b7ee9fa72f6c437e6774b6697777aaa8460a"

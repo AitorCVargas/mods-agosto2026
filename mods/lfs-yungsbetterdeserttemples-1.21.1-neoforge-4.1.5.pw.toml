@@ -1,8 +1,0 @@
-name = "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
-filename = "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
-hash-format = "sha256"
-hash = "e2c5575c105472039eb9ee6960e6db3c5595439c5a530a4f6d5be47b03320411"

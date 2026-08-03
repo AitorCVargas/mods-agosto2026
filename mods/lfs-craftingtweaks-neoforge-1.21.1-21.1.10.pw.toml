@@ -1,8 +1,0 @@
-name = "craftingtweaks-neoforge-1.21.1-21.1.10.jar"
-filename = "craftingtweaks-neoforge-1.21.1-21.1.10.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/craftingtweaks-neoforge-1.21.1-21.1.10.jar"
-hash-format = "sha256"
-hash = "e39a59ca3c27417844265ef98784dd1bb575482476d77f95fc2f5ac4ec59a688"

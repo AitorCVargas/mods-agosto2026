@@ -1,8 +1,0 @@
-name = "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar"
-filename = "EasyAnvils-v21.1.0-1.21.1-NeoForge.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar"
-hash-format = "sha256"
-hash = "461e103b1691bfd1214122df2ec4038e4c03fb5d779338ed50358537027e4f4c"

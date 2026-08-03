@@ -1,8 +1,0 @@
-name = "ApothicEnchanting-1.21.1-1.6.0.jar"
-filename = "ApothicEnchanting-1.21.1-1.6.0.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/ApothicEnchanting-1.21.1-1.6.0.jar"
-hash-format = "sha256"
-hash = "8ba11a9f69010173a3e70ec964f80e2b30f1cd11af404058497c606e57e47c15"

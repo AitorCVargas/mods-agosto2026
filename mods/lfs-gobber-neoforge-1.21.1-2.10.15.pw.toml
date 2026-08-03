@@ -1,8 +1,0 @@
-name = "Gobber-NeoForge-1.21.1-2.10.15.jar"
-filename = "Gobber-NeoForge-1.21.1-2.10.15.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/Gobber-NeoForge-1.21.1-2.10.15.jar"
-hash-format = "sha256"
-hash = "99b233c7e2dfda6f8e8fa85a9e6530c8237119c40eacef88af829d223f453438"

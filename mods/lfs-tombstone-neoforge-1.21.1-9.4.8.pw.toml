@@ -1,8 +1,0 @@
-name = "tombstone-neoforge-1.21.1-9.4.8.jar"
-filename = "tombstone-neoforge-1.21.1-9.4.8.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/tombstone-neoforge-1.21.1-9.4.8.jar"
-hash-format = "sha256"
-hash = "9175de0d2934149f5d7e1c1a5a94b846a04a6e7a560df87570987f2f77b8d970"

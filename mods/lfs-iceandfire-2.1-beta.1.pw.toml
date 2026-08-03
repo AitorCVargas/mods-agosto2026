@@ -1,8 +1,0 @@
-name = "iceandfire-2.1-beta.1.jar"
-filename = "iceandfire-2.1-beta.1.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/iceandfire-2.1-beta.1.jar"
-hash-format = "sha256"
-hash = "3e535d52938be22d594843fc3f747065e9d69d22b7366305b1b386b7de527aba"

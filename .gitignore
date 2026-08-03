@@ -1,9 +1,0 @@
-*.mrpack
-_mrpack_fix/
-.packwiz/
-*.log
-.DS_Store
-Thumbs.db
-
-packwiz.exe
-

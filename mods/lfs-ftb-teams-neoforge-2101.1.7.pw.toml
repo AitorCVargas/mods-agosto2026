@@ -1,8 +1,0 @@
-name = "ftb-teams-neoforge-2101.1.7.jar"
-filename = "ftb-teams-neoforge-2101.1.7.jar"
-side = "both"
-
-[download]
-url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/ftb-teams-neoforge-2101.1.7.jar"
-hash-format = "sha256"
-hash = "616f1bb15e8fb768f3f16c0a7c8b0a335965f817bb5547a0a7f41f027ae5ca6f"
