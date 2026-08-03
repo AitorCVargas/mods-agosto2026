@@ -3055,6 +3055,10 @@ file = "overrides/mods/trashslot-neoforge-1.21.1-21.1.11.jar"
 hash = "2f9e7382e6390a3e37655b9c98646ebb26ff91769df6b550feb1e88758bd44b2"
 
 [[files]]
+file = "overrides/mods/twilight_forest_final_boss-2.1.0+4.7.3196+1.21.1.jar"
+hash = "90fc522fa8c02cb73e34c247f9b7247bb9794cae87d93667df81cb1c6b7964b4"
+
+[[files]]
 file = "overrides/mods/twilightforest-1.21.1-4.8.3287-universal.jar"
 hash = "5ed1d20e11827db9d1757ff7a080a9640285ad18b858c83893d43795a3c20f7c"
 
