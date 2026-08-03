@@ -410,6 +410,11 @@ hash = "c94f4e17abce1e560e5a740b676920a93d83e88f8bf636d271133bbc91a474a3"
 metafile = true
 
 [[files]]
+file = "mods/mcef.pw.toml"
+hash = "92b4b8c5d262a7a56d88fe054872ea250dc55680a6bf040c3f97c6e597fbfae1"
+metafile = true
+
+[[files]]
 file = "mods/mcw-bridges-3.1.2-mc1.21.1neoforge.pw.toml"
 hash = "f58377096e700c9dd1264bef853d37ae7d9954372ff163212b7f5d9dfdfebea5"
 metafile = true
@@ -657,6 +662,26 @@ metafile = true
 [[files]]
 file = "mods/uranus-2.4.1-1.21.1-neoforge.pw.toml"
 hash = "b7b1728407854c6c8b9b060982b269e9c7f6ab13ee5de08a173d8acff94c2138"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "59e15d108b41b10145596a3ef899ad20ef8c8885504eef10cd89225aef87daef"
+metafile = true
+
+[[files]]
+file = "mods/watermedia-yt-plugin.pw.toml"
+hash = "4faf890cddc7addc968e262b4bc55ca47f59e482fa5c23e780def45d099f84e4"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "9c14d2011a343872dfa72aee64ef7beb2f9f9e47867807b4b03726cfa8e429b7"
+metafile = true
+
+[[files]]
+file = "mods/watervision.pw.toml"
+hash = "393310e8c75c51eb3143c8ddcdac51917a5d759d428e5b962e4c2b4c8e87bc0e"
 metafile = true
 
 [[files]]
