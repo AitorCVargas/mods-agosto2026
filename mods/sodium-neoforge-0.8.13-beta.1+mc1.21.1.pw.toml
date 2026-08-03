@@ -1,0 +1,13 @@
+name = "Sodium 0.8.13-beta.1 for NeoForge 1.21.1"
+filename = "sodium-neoforge-0.8.13-beta.1+mc1.21.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AANobbMI/versions/5EEI3Guz/sodium-neoforge-0.8.13-beta.1%2Bmc1.21.1.jar"
+hash-format = "sha1"
+hash = "f868ab0a037d1211fabd31b2f42a2862b8e6c669"
+
+[update]
+[update.modrinth]
+mod-id = "AANobbMI"
+version = "5EEI3Guz"

@@ -1,6 +1,6 @@
 name = "Ixeris 4.6.2+1.21.1-neoforge"
 filename = "Ixeris-4.6.2+1.21.1-neoforge.jar"
-side = "both"
+side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/5fkEzcb9/Ixeris-4.6.2%2B1.21.1-neoforge.jar"

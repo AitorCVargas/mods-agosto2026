@@ -1,4 +1,8 @@
 {
+  "evilcraft": {
+    "box_of_eternal_closure": true,
+    "broom": true
+  },
   "framedblocks": {
     "framed_item_frame": true,
     "framed_block_generic": true
@@ -86,6 +90,10 @@
   },
   "apotheosis": {
     "adventure": true
+  },
+  "occultism": {
+    "foliot": true,
+    "sacrificial": true
   },
   "iceandfire": {
     "dragon_egg_entity": true,

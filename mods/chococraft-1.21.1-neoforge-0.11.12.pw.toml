@@ -1,0 +1,13 @@
+name = "chococraft 1.21.1"
+filename = "chococraft-1.21.1-neoforge-0.11.12.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bPTEaC7v/versions/1Bcz0w79/chococraft-1.21.1-neoforge-0.11.12.jar"
+hash-format = "sha1"
+hash = "b9ef3d215d08348b2b29cf58b9683a9a9c81ac05"
+
+[update]
+[update.modrinth]
+mod-id = "bPTEaC7v"
+version = "1Bcz0w79"

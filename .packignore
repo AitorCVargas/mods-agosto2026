@@ -5,3 +5,4 @@ overrides/screenshots/**
 overrides/journeymap/**
 *.mrpack
 .git/**
+*.md

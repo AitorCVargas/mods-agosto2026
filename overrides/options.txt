@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","mod_resources","moonlight:merged_pack","file/Fresh_Moves_v3.1_AnimatedEyes.zip","file/FA_Player_Extension_v1.1.zip","file/Modded Language 1.8.zip","file/Pack_ES_Extra.zip"]
-incompatibleresourcePacks:["vanilla","mod_resources","moonlight:merged_pack","file/Fresh_Moves_v3.1_AnimatedEyes.zip","file/FA_Player_Extension_v1.1.zip","file/Modded Language 1.8.zip","file/Pack_ES_Extra.zip"]
+incompatibleResourcePacks:[]
 lastServer:
 lang:es_es
 chatVisibility:0
@@ -263,16 +263,16 @@ key_placebo.toggleWings:key.keyboard.keypad.8
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.carry.desc:key.keyboard.unknown
 key_key.twilightforest.item_display_map_cycle:key.keyboard.c
 key_key.twilightforest.red_thread_vision:key.keyboard.unknown
-key_key.twilightforest.zoom:key.keyboard.z
 key_key.twilightforest.swap_hotbar:key.keyboard.v
+key_key.twilightforest.zoom:key.keyboard.z
 key_key.cataclysm.ability:key.keyboard.v
 key_key.cataclysm.helmet_ability:key.keyboard.c
 key_key.cataclysm.chestplate_ability:key.keyboard.y
@@ -362,6 +362,7 @@ key_key.irons_spellbooks.spell_quick_cast_13:key.keyboard.unknown
 key_key.irons_spellbooks.spell_quick_cast_14:key.keyboard.unknown
 key_key.irons_spellbooks.spell_quick_cast_15:key.keyboard.unknown
 key_key.reconstructedwands.wand_gui:key.keyboard.g
+key_key.firstperson.toggle:key.keyboard.f6
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.0
