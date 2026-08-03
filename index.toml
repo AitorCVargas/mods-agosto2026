@@ -1800,7 +1800,7 @@ hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "83533a43ef2c006f067e570bad1f3f65982593cf5499ca961f6aae8282cbfbc9"
+hash = "5d7c5b087a9d082c0ccdf34e860f18b6aac44d679f4e933e028ba79fd21f2a43"
 
 [[files]]
 file = "overrides/config/fallingtree.json"
@@ -1816,7 +1816,7 @@ hash = "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa"
 
 [[files]]
 file = "overrides/config/fancymenu/customization/omnia_title_screen.txt"
-hash = "13d4118fe9886382d9609560c068b38b2ae79edbe5e3d9790052f10de3c78d1f"
+hash = "93010f35a08f30068cbf14ff35717708455dc36a45d8f51e6191f4137a8a2303"
 
 [[files]]
 file = "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
@@ -1888,7 +1888,7 @@ hash = "d7758765c46e7dcceb15b7534aa42afc0e104c90a8fabcf961395d668ee16035"
 
 [[files]]
 file = "overrides/config/ftbchunks-client.snbt"
-hash = "acf1b305250671193bae9472e80294abaab043dcc452c135ecc5c72e61b188a1"
+hash = "85358261078d1fa2d9600722a154e54d708b6bf8d6a59284e3fffe9a74c6eaae"
 
 [[files]]
 file = "overrides/config/ftbchunks-world.snbt"
@@ -1980,7 +1980,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "e4a7f1bfd2d3a40eaad7095c51fdfe24ef4b5a20e822691c8f427e76e638a404"
+hash = "ca7b6d94d39005dfe1986d072cb400dea8d81f98b93801b3b172323c32ac0aa6"
 
 [[files]]
 file = "overrides/config/irons_spellbooks-client.toml"
@@ -3080,7 +3080,7 @@ hash = "34bd840a3bf8d6934c9bf6f11ce6540ab2decbf5c5039c0b9aaba3b2979ceae3"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "b4ff189cf0f6232b3c6a7860d500dc0a6a5700031723648d2d77220edf3084c8"
+hash = "a25d4d02accf908e930130f573acb7deee5ab400f3b6513ebe39a58ebcaf6a83"
 
 [[files]]
 file = "overrides/resourcepacks/FA_Player_Extension_v1.1.zip"
