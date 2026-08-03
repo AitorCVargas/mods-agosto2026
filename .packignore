@@ -1,0 +1,7 @@
+overrides/saves/**
+overrides/logs/**
+overrides/crash-reports/**
+overrides/screenshots/**
+overrides/journeymap/**
+*.mrpack
+.git/**

@@ -1,0 +1,39 @@
+﻿MC 1.21.1 Optimized Test - notas para la comunidad
+==================================================
+
+Requisitos recomendados
+- RAM asignada: 4-6 GB (minimo ~4 GB libres en el PC)
+- Java 21 (Modrinth lo trae)
+- GPU: integrada vale (Intel/AMD iGPU). NO hace falta tarjeta dedicada.
+
+Defaults del pack (PC de carton / iGPU)
+- Shaders OFF (NeoCulus instalado pero apagado)
+- Render 6 / Simulacion 4 / Graficos Fast / Particulas Minimal / FPS cap 45
+- Sombras de entidades OFF, AO OFF, mipmaps 2, biome blend 0
+- Luces dinamicas OFF, AmbientSounds mute, Sound Physics OFF
+- Embeddium + Lithium + ModernFix + EntityCulling + MoreCulling + Particle Core soft
+
+Si tu PC va bien (GPU dedicada / 16 GB+ RAM)
+- Sube render 10-12, simulacion 8, FPS 60-120
+- Puedes activar shaders y Sound Physics en configs
+- AmbientSounds: sube volume en config/ambientsounds-client.json
+
+Si va mal
+- Render 4-5 / simulacion 3 / entity distance 50%
+- Cierra Chrome/Discord con hardware acceleration
+- En Modrinth: 4-5 GB RAM (no 8+ si el PC tiene 8 GB totales)
+- No actives shaders ni packs HD
+
+Contenido reciente
+- Occultism (rituales/espiritus) + Modonomicon
+- EvilCraft, Vinery, JRFTL (carne->cuero)
+- Punchy + Hyper Punchy + FA Player Extension
+- FirstPerson y NotEnoughAnimations desactivados a proposito
+
+Nota: pack grande (aventura + Create + bosses). En iGPU antigua = jugable en Fast/baja distancia; no esperes 60 FPS estables en junglas densas o bosses.
+
+
+--- Distribucion ---
+Instala el .mrpack con Modrinth App o Prism Launcher (Import).
+Shaders vienen incluidos pero DESACTIVADOS (Video > Shader Packs).
+Defaults: render 6 / sim 4 / Fast / particulas Minimal / FPS 45.

@@ -1,0 +1,13 @@
+name = "[NEOFORGE] Knight Lib 1.6.1-1.21.1"
+filename = "knightlib-neoforge-1.21.1-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hAnl9nbm/versions/YSOT3roi/knightlib-neoforge-1.21.1-1.6.1.jar"
+hash-format = "sha1"
+hash = "f169ce6e18530a545fda074cd26f212bacdde1e9"
+
+[update]
+[update.modrinth]
+mod-id = "hAnl9nbm"
+version = "YSOT3roi"

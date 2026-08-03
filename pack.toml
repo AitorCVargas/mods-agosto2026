@@ -1,0 +1,13 @@
+name = "MC Comunidad Optimized"
+author = "Aitor"
+version = "1.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "96b4113865e1987ab5d58247ea6897b9737cf8d772cb5692ed89867b3d7ff582"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.248"

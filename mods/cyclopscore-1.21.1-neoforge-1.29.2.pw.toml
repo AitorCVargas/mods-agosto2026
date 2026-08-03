@@ -1,0 +1,13 @@
+name = "1.29.2 for NeoForge 1.21.1"
+filename = "cyclopscore-1.21.1-neoforge-1.29.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Z9DM0LJ4/versions/SrkjfA2l/cyclopscore-1.21.1-neoforge-1.29.2.jar"
+hash-format = "sha1"
+hash = "d5c82b440c700b6937a0ab02823807b3dfc9c159"
+
+[update]
+[update.modrinth]
+mod-id = "Z9DM0LJ4"
+version = "SrkjfA2l"

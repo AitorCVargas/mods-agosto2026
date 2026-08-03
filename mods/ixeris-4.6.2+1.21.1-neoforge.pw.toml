@@ -1,0 +1,13 @@
+name = "Ixeris 4.6.2+1.21.1-neoforge"
+filename = "Ixeris-4.6.2+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/p8RJPJIC/versions/5fkEzcb9/Ixeris-4.6.2%2B1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "e63382006d713d0bc24000821d256a17c624e438"
+
+[update]
+[update.modrinth]
+mod-id = "p8RJPJIC"
+version = "5fkEzcb9"

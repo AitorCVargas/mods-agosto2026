@@ -1,0 +1,49 @@
+{
+  "ModSettings": {
+    "first_run": false,
+    "ENABLE_PROFILES": false,
+    "ENABLE_AUTO_REFILL": false,
+    "ENABLE_LOCK_SLOTS": false,
+    "ENABLE_UPDATES_CHECK": false,
+    "VILLAGER_TRADING_ENABLE": false
+  },
+  "GuiSettings": {
+    "ENABLE_INVENTORY_BUTTONS": true,
+    "ENABLE_INVENTORY_EDITOR_BUTTON": false,
+    "ENABLE_INVENTORY_SETTINGS_BUTTON": true,
+    "ENABLE_PROFILES_UI": false,
+    "ENABLE_PROFILES_ANNOUNCEMENT": false,
+    "SHOW_REGULAR_SORT_BUTTON": true,
+    "SHOW_SORT_IN_COLUMNS_BUTTON": true,
+    "SHOW_SORT_IN_ROWS_BUTTON": true,
+    "SHOW_MOVE_ALL_BUTTON": true,
+    "SHOW_BUTTON_TOOLTIPS": true,
+    "INVENTORY_OVERLAY_BUTTONS_VISIBLE": true
+  },
+  "AutoRefillSettings": {
+    "AUTO_REFILL_ENABLE_INDICATOR_ICONS": false,
+    "AUTO_REFILL_ENABLE_HORBAR_INDICATOR_ICONS": false,
+    "AUTO_REFILL_ENABLE_PER_SLOT_CONFIG": false,
+    "REFILL_ARMOR": false,
+    "REFILL_BEFORE_TOOL_BREAK": false,
+    "VISUAL_DURABILITY_NOTIFICATION": false,
+    "AUDIO_DURABILITY_NOTIFICATION": false,
+    "VISUAL_REPLACE_FAILED_NOTIFICATION": false,
+    "AUDIO_REPLACE_FAILED_NOTIFICATION": false,
+    "VISUAL_REPLACE_SUCCESS_NOTIFICATION": false,
+    "AUDIO_REPLACE_SUCCESS_NOTIFICATION": false,
+    "NUMBER_OF_NOTIFICATIONS": 0
+  },
+  "LockedSlotsSettings": {
+    "ENABLE_LOCK_SLOTS": false,
+    "SHOW_LOCKED_SLOTS_FOREGROUND": false,
+    "SHOW_LOCKED_SLOTS_BACKGROUND": false,
+    "ALSO_SHOW_LOCKED_SLOTS_IN_HOTBAR": false
+  },
+  "EditProfiles": {
+    "ENABLE_PROFILES": false
+  },
+  "Features": {
+    "ENABLE_SORTING_AND_MOVING": true
+  }
+}

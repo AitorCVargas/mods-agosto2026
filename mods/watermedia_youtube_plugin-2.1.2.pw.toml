@@ -1,0 +1,13 @@
+name = "WM-YT/2.1.2"
+filename = "watermedia_youtube_plugin-2.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/P0w3IrnX/versions/rDtJujm2/watermedia_youtube_plugin-2.1.2.jar"
+hash-format = "sha1"
+hash = "1f4d208ed9292189dd99147a9dae7c1d4bc95ad5"
+
+[update]
+[update.modrinth]
+mod-id = "P0w3IrnX"
+version = "rDtJujm2"

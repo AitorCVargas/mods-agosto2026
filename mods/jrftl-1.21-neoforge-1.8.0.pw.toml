@@ -1,0 +1,13 @@
+name = "JRFTL NeoForge 1.8.0"
+filename = "jrftl-1.21-neoforge-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8nIicBYu/versions/ZgbUilZH/jrftl-1.21-neoforge-1.8.0.jar"
+hash-format = "sha1"
+hash = "72cd77e1d2239d2ae583481481aab5fa5e2d4f31"
+
+[update]
+[update.modrinth]
+mod-id = "8nIicBYu"
+version = "ZgbUilZH"

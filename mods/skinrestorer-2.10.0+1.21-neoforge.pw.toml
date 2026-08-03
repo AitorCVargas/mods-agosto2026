@@ -1,0 +1,13 @@
+name = "[Neoforge] SkinRestorer 2.10.0"
+filename = "skinrestorer-2.10.0+1.21-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ghrZDhGW/versions/P7Vre2lP/skinrestorer-2.10.0%2B1.21-neoforge.jar"
+hash-format = "sha1"
+hash = "ea72bb25debbfc74b9486cb9d0fcb814ee5c6323"
+
+[update]
+[update.modrinth]
+mod-id = "ghrZDhGW"
+version = "P7Vre2lP"

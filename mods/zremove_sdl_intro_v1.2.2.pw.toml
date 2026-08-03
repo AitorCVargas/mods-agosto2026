@@ -1,0 +1,13 @@
+name = "[Mod] v1.2.2"
+filename = "zRemove_SDL_Intro_v1.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/sk4iFZGy/versions/BHr8OLOk/zRemove_SDL_Intro_v1.2.2.jar"
+hash-format = "sha1"
+hash = "c1c3067dc507b045eac4b07995e70b32172ee844"
+
+[update]
+[update.modrinth]
+mod-id = "sk4iFZGy"
+version = "BHr8OLOk"

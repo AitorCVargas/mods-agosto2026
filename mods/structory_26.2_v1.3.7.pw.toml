@@ -1,0 +1,13 @@
+name = "v1.3.17 ~ Mod"
+filename = "Structory_26.2_v1.3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aKCwCJlY/versions/TUbwu7eG/Structory_26.2_v1.3.7.jar"
+hash-format = "sha1"
+hash = "8a9a1a1b3f74398310420b6fbe2c26ef142bed42"
+
+[update]
+[update.modrinth]
+mod-id = "aKCwCJlY"
+version = "TUbwu7eG"

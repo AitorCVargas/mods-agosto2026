@@ -1,0 +1,13 @@
+{
+  "enabled": true,
+  "idle_timeout": 5,
+  "uncapped_menu_frame_rate": false,
+  "idle": {
+    "frame_rate_target": 10,
+    "volume_multiplier": 0.0
+  },
+  "unfocused": {
+    "frame_rate_target": 15,
+    "volume_multiplier": 0.25
+  }
+}

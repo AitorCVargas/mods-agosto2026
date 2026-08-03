@@ -1,0 +1,24 @@
+# Low-end friendly defaults (dynamic lights are expensive)
+mode = "off"
+
+chunk_rebuild_scheduler = "culling"
+
+[adaptive_ticking]
+	slow = 5
+	slower = 8
+	background_sleep = true
+
+[light_sources]
+	entities = false
+	self = false
+	water_sensitive_check = true
+	creeper = "off"
+	tnt = "off"
+	beam = false
+	firefly = false
+	guardian_laser = false
+	sonic_boom = false
+	glowing_effect = false
+
+[light_sources.settings.entities.minecraft]
+	glow_item_frame = false

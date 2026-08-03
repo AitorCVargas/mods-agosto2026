@@ -1,0 +1,13 @@
+name = "[NEOFORGE] MCEF 2.1.6-1.21.1"
+filename = "mcef-neoforge-2.1.6-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TObQ0HxZ/versions/euXLgkSB/mcef-neoforge-2.1.6-1.21.1.jar"
+hash-format = "sha1"
+hash = "efc74c3bf0784f2c75004440bb1ea4ed15e2385c"
+
+[update]
+[update.modrinth]
+mod-id = "TObQ0HxZ"
+version = "euXLgkSB"
