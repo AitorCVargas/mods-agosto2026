@@ -1800,7 +1800,7 @@ hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "82707be6a7a0c31ce9e429746358959ddd5d370a88484d5b332b72216e9a21b5"
+hash = "d4bc20dadd3b6329204d64e50e2dc7e243ee3ab8948695f4c4586079d8a21e34"
 
 [[files]]
 file = "overrides/config/fallingtree.json"
@@ -1816,7 +1816,11 @@ hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
 
 [[files]]
 file = "overrides/config/fancymenu/customization/omnia_title_screen.txt"
-hash = "8a9a56b66c2995653ad6e76b6ef5d9b2a6f565b2754538e5824944247a6cddbe"
+hash = "13d4118fe9886382d9609560c068b38b2ae79edbe5e3d9790052f10de3c78d1f"
+
+[[files]]
+file = "overrides/config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
+hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
 file = "overrides/config/fancymenu/legacy_checklist.txt"
@@ -1884,7 +1888,7 @@ hash = "d7758765c46e7dcceb15b7534aa42afc0e104c90a8fabcf961395d668ee16035"
 
 [[files]]
 file = "overrides/config/ftbchunks-client.snbt"
-hash = "653d4cbe01a07ffcfcfc0bac603316842c1f89dc89698cf92989f4229642210a"
+hash = "f0e166d9396631e65ae101cc15ae7ac8c3f2e39b3f304f89d826ffcf685c0302"
 
 [[files]]
 file = "overrides/config/ftbchunks-world.snbt"
@@ -1976,7 +1980,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "c8238d27f278cd65902abccdaad611bc056e2ffdbb0c6ab46790776fbcdc1899"
+hash = "7365dcbeeed7e3079386dbe2e5c59a90754393b6e4089cded10913d18dc991aa"
 
 [[files]]
 file = "overrides/config/irons_spellbooks-client.toml"
@@ -3076,7 +3080,7 @@ hash = "34bd840a3bf8d6934c9bf6f11ce6540ab2decbf5c5039c0b9aaba3b2979ceae3"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "d5718cbc4d6f2b30933e68d3e0068d16a85e0e34591aab578c4a1df2c30f30ae"
+hash = "9bd0860f32c8f6af75bf2db73a66ee16308d0f5f0c001e581390a8a36eec9a8a"
 
 [[files]]
 file = "overrides/resourcepacks/FA_Player_Extension_v1.1.zip"
