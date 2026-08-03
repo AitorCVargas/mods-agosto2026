@@ -90,6 +90,11 @@ hash = "90a4e16179f08f7710c923380a2656bf7bec60ca539267af8442aa93ab23ab45"
 metafile = true
 
 [[files]]
+file = "mods/chococraft.pw.toml"
+hash = "97b575e638c5ce5d3d20d6520c17dfea7a8e0e056a5aee1da43875638e1086f4"
+metafile = true
+
+[[files]]
 file = "mods/chunky-neoforge-1.4.23.pw.toml"
 hash = "b78c042308a1a7a31ea6b13235d6e46299a23de3b10c854fe7f31aab35cfc825"
 metafile = true

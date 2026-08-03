@@ -1,12 +1,12 @@
 name = "MC Comunidad Optimized"
 author = "Aitor"
-version = "1.2.12"
+version = "1.2.13"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "62e0fc9a631a7ae6c9cffbb10f1b55e1d4a773270e6929d9d844be42964ffeee"
+hash = "1452e1736f4fb4b993442345e6ae9cb933aa275e72e15bc9b9f7b7351cfc0c3d"
 
 [versions]
 minecraft = "1.21.1"
