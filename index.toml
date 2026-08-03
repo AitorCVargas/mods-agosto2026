@@ -5,10 +5,6 @@ file = ".packignore"
 hash = "0ef2f9da416ff6f07d9016df26088fcbab7185c6f4d1329b195ff6094e3ecada"
 
 [[files]]
-file = "README.md"
-hash = "fcf651ba0b043f00bf492739d8855aea6485fb67485df895b83719fe7434049a"
-
-[[files]]
 file = "mods/1.21.1-securitycraft-v1.10.2.1.pw.toml"
 hash = "ca857623b1b93319bcce4e6c327d33874bc760832bc8370bb587cf9e143094b5"
 metafile = true
@@ -826,10 +822,6 @@ hash = "fae0ac7b88a2b0bd89c1da26414a3c25797610b2c6cc768733664c0b65869666"
 [[files]]
 file = "overrides/config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
-
-[[files]]
-file = "overrides/config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
 
 [[files]]
 file = "overrides/config/Undead_mobs.toml"
