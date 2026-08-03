@@ -8,3 +8,4 @@ overrides/journeymap/**
 *.md
 overrides/mods/**
 overrides/shaderpacks/**/*.zip
+overrides/config/almostunified/debug.json
