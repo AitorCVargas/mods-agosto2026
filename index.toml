@@ -80,6 +80,11 @@ hash = "78b209af535d7c5d016696fb891003feacfb306fe8b641ccbabc6f6ff69ea3e5"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-neoforge-1.21.1-21.1.81.pw.toml"
 hash = "c2e3e9d9e45f8dc9f64854c877dcfa77375031318452a15a317c97b02d60c4da"
 metafile = true
