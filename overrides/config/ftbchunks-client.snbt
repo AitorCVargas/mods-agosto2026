@@ -133,17 +133,17 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"aether:cockatrice": true
+			"aether:sheepuff": true
+			"aether:aechor_plant": true
+			"aether:evil_whirlwind": true
+			"aether:zephyr": true
 			"aether:moa": true
 			"aether:aerwhale": true
-			"aether:blue_swet": true
-			"aether:zephyr": true
-			"aether:evil_whirlwind": true
-			"aether:flying_cow": true
 			"aether:phyg": true
-			"aether:sheepuff": true
+			"aether:cockatrice": true
+			"aether:blue_swet": true
+			"aether:flying_cow": true
 			"aether:golden_swet": true
-			"aether:aechor_plant": true
 			"aether:aerbunny": true
 		}
 		
