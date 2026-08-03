@@ -1703,7 +1703,7 @@ hash = "94d584e93f86976673fc36fd3834f407444a452199fc4bb9adff6ba320c3e881"
 
 [[files]]
 file = "overrides/config/entity_model_features.json"
-hash = "9231c55a014bdb6b413e84445c0d0043fe07f90845a3aec5f3ff00b600cca11a"
+hash = "18b344982878174595826b3938210f4d0068e2860b90f86935baf49c2fae2dc4"
 
 [[files]]
 file = "overrides/config/entity_texture_features.json"
@@ -2988,10 +2988,6 @@ hash = "d2a0c089f4889b934031e295d30cf14c18db2dbb571f2b7106ed636129e88072"
 [[files]]
 file = "overrides/mods/trashslot-neoforge-1.21.1-21.1.11.jar"
 hash = "2f9e7382e6390a3e37655b9c98646ebb26ff91769df6b550feb1e88758bd44b2"
-
-[[files]]
-file = "overrides/mods/twilight_forest_final_boss-2.1.0+4.7.3196+1.21.1.jar"
-hash = "90fc522fa8c02cb73e34c247f9b7247bb9794cae87d93667df81cb1c6b7964b4"
 
 [[files]]
 file = "overrides/mods/twilightforest-1.21.1-4.8.3287-universal.jar"
