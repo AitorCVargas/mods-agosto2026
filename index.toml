@@ -1800,7 +1800,7 @@ hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "d69e7f57a7520e1d162aab56d2f8d2dea25b8dea1b5fa77c2252d8dd6e667c38"
+hash = "f52719183c18ba90dd6f668888aca7e884cb56f8466ae169c7cb3a4fca4c1d4b"
 
 [[files]]
 file = "overrides/config/fallingtree.json"
@@ -1884,7 +1884,7 @@ hash = "d7758765c46e7dcceb15b7534aa42afc0e104c90a8fabcf961395d668ee16035"
 
 [[files]]
 file = "overrides/config/ftbchunks-client.snbt"
-hash = "ad42c31f1c4cedce16476c1120a8c74151c1024470d77caceb9e280c3f9c6a78"
+hash = "0762e0629a94d437363a1ea8f5e1f13197c5cf605840efb6dde16ddfad52bcfa"
 
 [[files]]
 file = "overrides/config/ftbchunks-world.snbt"
@@ -1924,7 +1924,7 @@ hash = "02941cb74d4016b874dc5a907fd26a8c3053387ad070c2eadeaa33e45926a1bb"
 
 [[files]]
 file = "overrides/config/iceandfire/iaf-client.json"
-hash = "cb326e55a4a76c4741c031ce61b48f96b56dbc327792d457f4eb7894d6a0fad7"
+hash = "139c77cbd5c106862de2543f2809de827b8293a0648ec0e786887285ee63ae27"
 
 [[files]]
 file = "overrides/config/iceandfire/iaf-common.json"
@@ -1976,7 +1976,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "657bdd52ce637e324cc6f4c2bddd6487ae520df1b2ddf7dad234af4b8b16742c"
+hash = "be1deeb961acb76bb0f5a866e14aeab5d681316edb96dce49ed4183d972571ec"
 
 [[files]]
 file = "overrides/config/irons_spellbooks-client.toml"
@@ -3076,7 +3076,7 @@ hash = "34bd840a3bf8d6934c9bf6f11ce6540ab2decbf5c5039c0b9aaba3b2979ceae3"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "62637be3b3ab4e3afb681a9a2b4d1e3ec1687cb61d8ec30b2cc44f5e40c24c34"
+hash = "d5718cbc4d6f2b30933e68d3e0068d16a85e0e34591aab578c4a1df2c30f30ae"
 
 [[files]]
 file = "overrides/resourcepacks/FA_Player_Extension_v1.1.zip"
