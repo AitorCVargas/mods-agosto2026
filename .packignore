@@ -6,3 +6,5 @@ overrides/journeymap/**
 *.mrpack
 .git/**
 *.md
+overrides/mods/**
+overrides/shaderpacks/**/*.zip

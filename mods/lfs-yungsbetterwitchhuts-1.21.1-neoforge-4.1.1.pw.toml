@@ -1,0 +1,8 @@
+name = "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+filename = "YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+hash-format = "sha256"
+hash = "2b93e3c42b097c165aa687f28fb061477d69ec2938e1f4eaa80628cab1fa780f"

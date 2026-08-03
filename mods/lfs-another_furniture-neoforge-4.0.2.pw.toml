@@ -1,0 +1,8 @@
+name = "another_furniture-neoforge-4.0.2.jar"
+filename = "another_furniture-neoforge-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/another_furniture-neoforge-4.0.2.jar"
+hash-format = "sha256"
+hash = "d754ac915d27b849a47f170c727c8fef8573f44accd9267493cd48ae8622dfad"

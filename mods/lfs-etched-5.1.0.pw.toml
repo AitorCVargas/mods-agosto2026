@@ -1,0 +1,8 @@
+name = "etched-5.1.0.jar"
+filename = "etched-5.1.0.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/etched-5.1.0.jar"
+hash-format = "sha256"
+hash = "b2ee65c24586398ec7b9177f89f2896e707503110dddb20cfa64a265427a2822"

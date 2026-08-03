@@ -1,0 +1,8 @@
+name = "beautify-neoforge-1.21.1-2.0.2.jar"
+filename = "beautify-neoforge-1.21.1-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/beautify-neoforge-1.21.1-2.0.2.jar"
+hash-format = "sha256"
+hash = "3235ba566e5527d97a2a3dbbffa6b198315f73b4a9dc9afbe73ab3c01d328dca"

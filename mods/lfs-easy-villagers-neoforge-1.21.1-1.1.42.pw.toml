@@ -1,0 +1,8 @@
+name = "easy-villagers-neoforge-1.21.1-1.1.42.jar"
+filename = "easy-villagers-neoforge-1.21.1-1.1.42.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/easy-villagers-neoforge-1.21.1-1.1.42.jar"
+hash-format = "sha256"
+hash = "bb54054c91704b81cc94c9faf6a09643d08bb97fff9d4c4f0547de01da5ab460"

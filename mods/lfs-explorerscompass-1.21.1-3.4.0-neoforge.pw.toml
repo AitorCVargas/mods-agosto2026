@@ -1,0 +1,8 @@
+name = "ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
+filename = "ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
+hash-format = "sha256"
+hash = "2e7e3fa560e6fbb0e164de002800376418d25ca82c51ab1467929f282e05bfae"

@@ -1,0 +1,8 @@
+name = "netherskeletons-5.1-neoforge-1.21.1.jar"
+filename = "netherskeletons-5.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/netherskeletons-5.1-neoforge-1.21.1.jar"
+hash-format = "sha256"
+hash = "8fea3dd9029c15ec36c9920b81d52bd948a525ab099c790adabd1482d58233c3"

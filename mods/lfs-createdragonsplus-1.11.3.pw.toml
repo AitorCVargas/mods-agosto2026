@@ -1,0 +1,8 @@
+name = "CreateDragonsPlus-1.11.3.jar"
+filename = "CreateDragonsPlus-1.11.3.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/CreateDragonsPlus-1.11.3.jar"
+hash-format = "sha256"
+hash = "fd0bd19d9d2f2d4d1a68781df2bf73032778c22d95da3c33f5a60327d6626a91"

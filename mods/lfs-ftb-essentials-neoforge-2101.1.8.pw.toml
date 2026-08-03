@@ -1,0 +1,8 @@
+name = "ftb-essentials-neoforge-2101.1.8.jar"
+filename = "ftb-essentials-neoforge-2101.1.8.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/ftb-essentials-neoforge-2101.1.8.jar"
+hash-format = "sha256"
+hash = "2a1a2db5300727288e5339b2b46a176a1c883526e39c538b8aaeee17505350a6"

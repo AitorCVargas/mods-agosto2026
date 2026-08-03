@@ -1,0 +1,8 @@
+name = "champions-neoforge-1.21.1-2.1.11.3.jar"
+filename = "champions-neoforge-1.21.1-2.1.11.3.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/champions-neoforge-1.21.1-2.1.11.3.jar"
+hash-format = "sha256"
+hash = "0b046a8a3f7b8481d2cf1756eba89755ae49254703f7dc860387a305277de756"

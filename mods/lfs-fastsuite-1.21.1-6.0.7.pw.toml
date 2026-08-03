@@ -1,0 +1,8 @@
+name = "FastSuite-1.21.1-6.0.7.jar"
+filename = "FastSuite-1.21.1-6.0.7.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/FastSuite-1.21.1-6.0.7.jar"
+hash-format = "sha256"
+hash = "4121a0f4877b270b4f243e3384a8376dcb505b6549efa1af0c23853dafd55de9"

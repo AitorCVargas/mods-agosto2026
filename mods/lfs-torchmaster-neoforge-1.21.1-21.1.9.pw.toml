@@ -1,0 +1,8 @@
+name = "torchmaster-neoforge-1.21.1-21.1.9.jar"
+filename = "torchmaster-neoforge-1.21.1-21.1.9.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/torchmaster-neoforge-1.21.1-21.1.9.jar"
+hash-format = "sha256"
+hash = "d2a0c089f4889b934031e295d30cf14c18db2dbb571f2b7106ed636129e88072"

@@ -1,0 +1,8 @@
+name = "curios-neoforge-9.5.1+1.21.1.jar"
+filename = "curios-neoforge-9.5.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/curios-neoforge-9.5.1+1.21.1.jar"
+hash-format = "sha256"
+hash = "ff6479b667a6140583f89d46e5fb17e2a6c6e370b063e9763797f12ad06b8d1c"

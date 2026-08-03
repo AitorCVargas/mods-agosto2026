@@ -1,0 +1,8 @@
+name = "refurbished_furniture-neoforge-1.21.1-1.0.20.jar"
+filename = "refurbished_furniture-neoforge-1.21.1-1.0.20.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/refurbished_furniture-neoforge-1.21.1-1.0.20.jar"
+hash-format = "sha256"
+hash = "03bc199a1ff2f846df101752cea38f2f014a47cefe1c3c5468abd502cd6ab40c"

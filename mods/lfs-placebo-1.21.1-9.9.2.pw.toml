@@ -1,0 +1,8 @@
+name = "Placebo-1.21.1-9.9.2.jar"
+filename = "Placebo-1.21.1-9.9.2.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/Placebo-1.21.1-9.9.2.jar"
+hash-format = "sha256"
+hash = "1c334ab1f695460674e5c4acabf8056266f3bd6546472b0e7b0de88cfdb6babd"

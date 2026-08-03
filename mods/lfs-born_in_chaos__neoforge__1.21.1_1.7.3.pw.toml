@@ -1,0 +1,8 @@
+name = "born_in_chaos_[Neoforge]_1.21.1_1.7.3.jar"
+filename = "born_in_chaos_[Neoforge]_1.21.1_1.7.3.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/born_in_chaos_[Neoforge]_1.21.1_1.7.3.jar"
+hash-format = "sha256"
+hash = "03531cb0b7674307b9f61f442224d152e8fd4835029e0a859b7fb3de3277e0a6"

@@ -1,0 +1,8 @@
+name = "copycats-3.0.4+mc.1.21.1-neoforge.jar"
+filename = "copycats-3.0.4+mc.1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "4db275bd7f0b50a07cee1c0011934702931551c7c24951c7f53a8ba4ae1aae75"

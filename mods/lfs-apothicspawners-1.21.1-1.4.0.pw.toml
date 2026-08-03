@@ -1,0 +1,8 @@
+name = "ApothicSpawners-1.21.1-1.4.0.jar"
+filename = "ApothicSpawners-1.21.1-1.4.0.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/ApothicSpawners-1.21.1-1.4.0.jar"
+hash-format = "sha256"
+hash = "9b061f8d2d0807358fbb9d9afa240a26fc0a15362574ccbe629e472abc954857"

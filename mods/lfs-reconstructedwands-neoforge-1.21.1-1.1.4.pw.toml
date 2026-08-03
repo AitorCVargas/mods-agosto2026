@@ -1,0 +1,8 @@
+name = "reconstructedwands-neoforge-1.21.1-1.1.4.jar"
+filename = "reconstructedwands-neoforge-1.21.1-1.1.4.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/reconstructedwands-neoforge-1.21.1-1.1.4.jar"
+hash-format = "sha256"
+hash = "08421ec62852577c9fc1af4acef26b9d0c9db73e64269eeb49a5c9ba08f51132"

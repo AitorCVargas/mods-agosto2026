@@ -1,0 +1,8 @@
+name = "ApothicAttributes-1.21.1-2.10.1.jar"
+filename = "ApothicAttributes-1.21.1-2.10.1.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/ApothicAttributes-1.21.1-2.10.1.jar"
+hash-format = "sha256"
+hash = "1bbf7f66ce21aff82394f1fab2bbe794bc6b3ae846ac5e0317aa3e0a071b7f12"

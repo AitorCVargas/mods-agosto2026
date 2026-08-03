@@ -1,0 +1,8 @@
+name = "botanypots-neoforge-1.21.1-21.1.44.jar"
+filename = "botanypots-neoforge-1.21.1-21.1.44.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/botanypots-neoforge-1.21.1-21.1.44.jar"
+hash-format = "sha256"
+hash = "12b86a80f328ce4d657407fd2439779867cc4330fd7bebf4e9507d36031f3a3e"

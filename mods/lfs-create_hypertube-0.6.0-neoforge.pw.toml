@@ -1,0 +1,8 @@
+name = "create_hypertube-0.6.0-NEOFORGE.jar"
+filename = "create_hypertube-0.6.0-NEOFORGE.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/create_hypertube-0.6.0-NEOFORGE.jar"
+hash-format = "sha256"
+hash = "6730879a8184398603a6db2ee7f235f1387ba1e6dd2141abcf599bca88218ece"

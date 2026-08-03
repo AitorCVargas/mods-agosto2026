@@ -1,0 +1,8 @@
+name = "Apotheosis-1.21.1-8.7.0.jar"
+filename = "Apotheosis-1.21.1-8.7.0.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/Apotheosis-1.21.1-8.7.0.jar"
+hash-format = "sha256"
+hash = "35c940e8ade3ee6999cb52efc2df3595ae91e515599d403d88583b6bf2afeedd"

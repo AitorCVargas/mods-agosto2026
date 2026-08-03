@@ -1,0 +1,8 @@
+name = "Iceberg-1.21.1-neoforge-1.3.2.jar"
+filename = "Iceberg-1.21.1-neoforge-1.3.2.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/Iceberg-1.21.1-neoforge-1.3.2.jar"
+hash-format = "sha256"
+hash = "6a8e1cd7afc496662b9991c3410df0bfa8e28d7f65d959fdb8f15e1137e1594f"

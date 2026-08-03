@@ -1,0 +1,8 @@
+name = "ftb-library-neoforge-2101.1.28.jar"
+filename = "ftb-library-neoforge-2101.1.28.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/ftb-library-neoforge-2101.1.28.jar"
+hash-format = "sha256"
+hash = "25cbdfe247d434b53726d7b054bf35c9455c3e9578ea66f0118b712a632c6f2d"

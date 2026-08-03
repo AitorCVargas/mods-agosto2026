@@ -1,0 +1,8 @@
+name = "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+filename = "JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+hash-format = "sha256"
+hash = "14534e91980d20c293db5eab4fcbcf0fc14701e3fe4c5c91d4475b439767cadc"

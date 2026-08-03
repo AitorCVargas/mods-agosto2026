@@ -1,0 +1,8 @@
+name = "aether-1.21.1-1.5.10-neoforge.jar"
+filename = "aether-1.21.1-1.5.10-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/aether-1.21.1-1.5.10-neoforge.jar"
+hash-format = "sha256"
+hash = "272a70acf3a4ece5d0e61ede52125d5ea891c7566b72c0877d089392cee69feb"

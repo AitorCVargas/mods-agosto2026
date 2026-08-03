@@ -1,0 +1,8 @@
+name = "letsdo-farm_and_charm-neoforge-1.1.23.jar"
+filename = "letsdo-farm_and_charm-neoforge-1.1.23.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/letsdo-farm_and_charm-neoforge-1.1.23.jar"
+hash-format = "sha256"
+hash = "1254c2a3b832e4674abbb98fbfe023afed9e756c564ba4dd1a7cb3c7c5f0b72a"

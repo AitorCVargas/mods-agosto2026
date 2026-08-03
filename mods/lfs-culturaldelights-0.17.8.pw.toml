@@ -1,0 +1,8 @@
+name = "culturaldelights-0.17.8.jar"
+filename = "culturaldelights-0.17.8.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/culturaldelights-0.17.8.jar"
+hash-format = "sha256"
+hash = "6b5dbe1208ccc17cef987926e94fd445b5f778b00b602b3ec0a5dbbbda73057e"

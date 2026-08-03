@@ -1,0 +1,8 @@
+name = "endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
+filename = "endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
+hash-format = "sha256"
+hash = "16b76970e18218fc0227add934824be30136ac50d287b1b6d95d0ca213e75d1e"

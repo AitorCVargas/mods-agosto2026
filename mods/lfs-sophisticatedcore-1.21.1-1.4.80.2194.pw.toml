@@ -1,0 +1,8 @@
+name = "sophisticatedcore-1.21.1-1.4.80.2194.jar"
+filename = "sophisticatedcore-1.21.1-1.4.80.2194.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/sophisticatedcore-1.21.1-1.4.80.2194.jar"
+hash-format = "sha256"
+hash = "f4965df484938bf8c07c0281927ba6856abd1d6c31d8e2ad1ffd365514c43985"

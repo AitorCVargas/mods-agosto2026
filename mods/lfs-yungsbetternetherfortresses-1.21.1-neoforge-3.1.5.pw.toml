@@ -1,0 +1,8 @@
+name = "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+filename = "YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+hash-format = "sha256"
+hash = "8a2249338a01d4a54753c8590c4cca3aa1dd7b0345f37d9dff32a2cde137df6b"

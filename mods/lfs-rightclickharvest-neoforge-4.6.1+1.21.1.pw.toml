@@ -1,0 +1,8 @@
+name = "rightclickharvest-neoforge-4.6.1+1.21.1.jar"
+filename = "rightclickharvest-neoforge-4.6.1+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar"
+hash-format = "sha256"
+hash = "468cc55e8fcac15f13f3ea9de69a00e44b2f492551d05504869c2f527fac4e1d"

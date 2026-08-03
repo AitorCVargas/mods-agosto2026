@@ -1,0 +1,8 @@
+name = "sliceanddice-4.3.3-neoforge.jar"
+filename = "sliceanddice-4.3.3-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/sliceanddice-4.3.3-neoforge.jar"
+hash-format = "sha256"
+hash = "497875c97573d8da19750ac7dd02fbb2a5ce24797fd3ca93df23a42c0b54f703"

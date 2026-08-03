@@ -1,0 +1,8 @@
+name = "alltheleaks-1.1.10+1.21.1-neoforge.jar"
+filename = "alltheleaks-1.1.10+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/alltheleaks-1.1.10+1.21.1-neoforge.jar"
+hash-format = "sha256"
+hash = "dd23d2822a77ca0a69639572a533d925c1b0b320dc9f8447525b2d6b7fd32f85"

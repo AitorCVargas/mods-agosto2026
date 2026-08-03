@@ -1,0 +1,8 @@
+name = "MyNethersDelight-1.21.1-1.10.4.jar"
+filename = "MyNethersDelight-1.21.1-1.10.4.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/MyNethersDelight-1.21.1-1.10.4.jar"
+hash-format = "sha256"
+hash = "5477c0bf335c6cc404991cc216a69a68257a717dfb04dfa5adc329617d39683a"

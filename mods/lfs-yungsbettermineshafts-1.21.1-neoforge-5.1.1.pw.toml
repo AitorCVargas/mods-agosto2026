@@ -1,0 +1,8 @@
+name = "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+filename = "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+hash-format = "sha256"
+hash = "246389fd183bf8eca7c6dea2d8be08d9cb909d46c00e988deb55008a9cfaea1f"

@@ -1,0 +1,8 @@
+name = "chipped-neoforge-1.21.1-4.0.2.jar"
+filename = "chipped-neoforge-1.21.1-4.0.2.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/chipped-neoforge-1.21.1-4.0.2.jar"
+hash-format = "sha256"
+hash = "b46a0fb185577ab9023068284d603944875dad4d8d35a19e1eddbb5db15aef16"

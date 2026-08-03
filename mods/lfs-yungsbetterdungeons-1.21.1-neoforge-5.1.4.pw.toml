@@ -1,0 +1,8 @@
+name = "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+filename = "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+hash-format = "sha256"
+hash = "32b99cf4372bcf56c3dbc9f2faf562f172a4418ee77c06972d680186c12c17a7"

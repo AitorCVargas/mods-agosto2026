@@ -1,0 +1,8 @@
+name = "jei-1.21.1-neoforge-19.43.0.392.jar"
+filename = "jei-1.21.1-neoforge-19.43.0.392.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/jei-1.21.1-neoforge-19.43.0.392.jar"
+hash-format = "sha256"
+hash = "555192311bfb318cc08cd95bff301ddcd2626e426ddbd06844bebfb8599e3531"

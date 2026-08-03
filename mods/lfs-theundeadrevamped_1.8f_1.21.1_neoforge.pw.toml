@@ -1,0 +1,8 @@
+name = "THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar"
+filename = "THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar"
+hash-format = "sha256"
+hash = "b8ee3ddff5b0c14259c21200e36c8bf321e3ecdc3ab181bf8a2d90e2bf140206"

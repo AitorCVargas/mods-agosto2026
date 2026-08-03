@@ -1,0 +1,8 @@
+name = "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+filename = "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+hash-format = "sha256"
+hash = "0ffbcd853479c7af0c1872e1dccc805160f5f82f1e35d4795a047d0996d54d6f"

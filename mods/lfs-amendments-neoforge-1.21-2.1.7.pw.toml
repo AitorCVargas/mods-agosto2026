@@ -1,0 +1,8 @@
+name = "amendments-neoforge-1.21-2.1.7.jar"
+filename = "amendments-neoforge-1.21-2.1.7.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/amendments-neoforge-1.21-2.1.7.jar"
+hash-format = "sha256"
+hash = "c0de924770e06af0e7b5d245b8a5abd56e3f0eff43207e74361bca90aae6a68f"

@@ -1,0 +1,8 @@
+name = "EasyMagic-v21.1.4-1.21.1-NeoForge.jar"
+filename = "EasyMagic-v21.1.4-1.21.1-NeoForge.jar"
+side = "both"
+
+[download]
+url = "https://media.githubusercontent.com/media/AitorCVargas/mods-agosto2026/main/overrides/mods/EasyMagic-v21.1.4-1.21.1-NeoForge.jar"
+hash-format = "sha256"
+hash = "eeff4047c12b729b84cfb52974796ddbbb387facaab1767ea157bc0ac110c1e7"
