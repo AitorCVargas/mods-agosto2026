@@ -340,6 +340,11 @@ hash = "c4358ef9fd40c7b816b199642af125bc732778fda570494ba264414acd9f6bf3"
 metafile = true
 
 [[files]]
+file = "mods/iris.pw.toml"
+hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
 file = "mods/ironchest-1.21-neoforge-16.0.7.pw.toml"
 hash = "34aa313367c027bb78e166dfd0ffbbff56d7df7dd0cedaaf5fa5940e8d47fd4a"
 metafile = true
@@ -672,6 +677,16 @@ metafile = true
 [[files]]
 file = "mods/snowrealmagic-1.21.1-neoforge-12.2.2.pw.toml"
 hash = "309b87d4e86a9365ba96aadc8ecd9e0a23f6030e236ecd27783aafc4653be262"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "c490445e40a84c9e19bd3d3a7c8e8b9709b8cea0346a307eb7fb8a32a72a9504"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
 metafile = true
 
 [[files]]
