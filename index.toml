@@ -1739,6 +1739,10 @@ file = "overrides/config/embeddium-mixins.properties"
 hash = "708750dc530ed52462185c7b1421291db8b292a350e164daaad437ba6f4fe4ef"
 
 [[files]]
+file = "overrides/config/emojiful-client.toml"
+hash = "d50402f326389452a6ed579d9436251e872cedbab6b8f94f74299b3e2a137822"
+
+[[files]]
 file = "overrides/config/emotecraft.json"
 hash = "34371cc35bcec3a7068e3d8d669d8847d4e45eb7a9afe5858f25ce84edef40f3"
 
@@ -1796,7 +1800,7 @@ hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "91a50e754f548ce300272f34b7acdfcaca3bc9d8f7f97f7eb0fe3d866596bb9b"
+hash = "d69e7f57a7520e1d162aab56d2f8d2dea25b8dea1b5fa77c2252d8dd6e667c38"
 
 [[files]]
 file = "overrides/config/fallingtree.json"
@@ -1812,7 +1816,7 @@ hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
 
 [[files]]
 file = "overrides/config/fancymenu/customization/omnia_title_screen.txt"
-hash = "91e5a1fa55deb009abd6cc17a8a1709929325189b48e95a88d2bfd30ca871f65"
+hash = "8a9a56b66c2995653ad6e76b6ef5d9b2a6f565b2754538e5824944247a6cddbe"
 
 [[files]]
 file = "overrides/config/fancymenu/legacy_checklist.txt"
@@ -1880,7 +1884,7 @@ hash = "d7758765c46e7dcceb15b7534aa42afc0e104c90a8fabcf961395d668ee16035"
 
 [[files]]
 file = "overrides/config/ftbchunks-client.snbt"
-hash = "b925b0b74deb1679532e5d31550b1bb987386aa48f40a6e2eca7cc28672692c8"
+hash = "ad42c31f1c4cedce16476c1120a8c74151c1024470d77caceb9e280c3f9c6a78"
 
 [[files]]
 file = "overrides/config/ftbchunks-world.snbt"
@@ -1972,7 +1976,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "5c5e544ab3f7dd2f1550ccd22afc274e9c82ecc1c1453379704a3be7f39fcda3"
+hash = "657bdd52ce637e324cc6f4c2bddd6487ae520df1b2ddf7dad234af4b8b16742c"
 
 [[files]]
 file = "overrides/config/irons_spellbooks-client.toml"
