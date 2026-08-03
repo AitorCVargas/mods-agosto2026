@@ -225,8 +225,18 @@ hash = "88679844b005e604d24d194eda6a507337b0e192441e797fdfdcc459fd76e3a7"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
+metafile = true
+
+[[files]]
 file = "mods/entityculling-neoforge-1.10.5-mc1.21.1.pw.toml"
 hash = "b39270dbfd56ab20f6ec32f6b787d9e3c45c1b938cf1b3c47651be69d610e486"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
 metafile = true
 
 [[files]]
@@ -2882,7 +2892,7 @@ hash = "34bd840a3bf8d6934c9bf6f11ce6540ab2decbf5c5039c0b9aaba3b2979ceae3"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "fec91d12c32f956785bb3f3fce3fae44c04fe9ed90182756f6665c8558e1c8db"
+hash = "3f50d9d4c3d82ec3c33de280af7666083446186ba85d108816ce5ad891d8e68b"
 
 [[files]]
 file = "overrides/resourcepacks/FA_Player_Extension_v1.1.zip"
