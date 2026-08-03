@@ -1,0 +1,13 @@
+name = "0.2.0+alpha-1.21.1"
+filename = "async-neoforge-0.2.0+alpha-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vEC2jm6I/versions/pP8zrgTu/async-neoforge-0.2.0%2Balpha-1.21.1.jar"
+hash-format = "sha1"
+hash = "2fd84ae873d8fb6263fa86417b9cede2baa3c58b"
+
+[update]
+[update.modrinth]
+mod-id = "vEC2jm6I"
+version = "pP8zrgTu"

@@ -1,2 +1,0 @@
-overrides/mods/**/*.jar filter=lfs diff=lfs merge=lfs -text
-overrides/shaderpacks/**/*.zip filter=lfs diff=lfs merge=lfs -text

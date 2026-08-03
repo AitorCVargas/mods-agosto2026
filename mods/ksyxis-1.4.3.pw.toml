@@ -1,0 +1,13 @@
+name = "Ksyxis 1.4.3"
+filename = "Ksyxis-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2ecVyZ49/versions/kL32PN9Q/Ksyxis-1.4.3.jar"
+hash-format = "sha1"
+hash = "6f4b2ea7827da8136bdf436457a2ba3fcdb2120e"
+
+[update]
+[update.modrinth]
+mod-id = "2ecVyZ49"
+version = "kL32PN9Q"

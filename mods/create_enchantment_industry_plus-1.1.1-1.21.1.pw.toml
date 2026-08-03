@@ -1,0 +1,13 @@
+name = "Create Enchantment Industry Plus 1.1.1"
+filename = "create_enchantment_industry_plus-1.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dT8lKjaP/versions/RmfCW16b/create_enchantment_industry_plus-1.1.1-1.21.1.jar"
+hash-format = "sha1"
+hash = "c7e87eb00e10cb347f6372e17d38da51ce6f1975"
+
+[update]
+[update.modrinth]
+mod-id = "dT8lKjaP"
+version = "RmfCW16b"
