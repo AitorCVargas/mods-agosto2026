@@ -240,11 +240,6 @@ hash = "c350f1548d818fc16b8b19ca7e41352e5def9f2569c9ae810200c0c2cfb6d82a"
 metafile = true
 
 [[files]]
-file = "mods/embeddium-1.0.15+mc1.21.1.pw.toml"
-hash = "7004a15b1671dbe078ee5487c098d86a2a25d49cbcb635da2308e073bce84479"
-metafile = true
-
-[[files]]
 file = "mods/enchdesc-neoforge-1.21.1-21.1.10.pw.toml"
 hash = "88679844b005e604d24d194eda6a507337b0e192441e797fdfdcc459fd76e3a7"
 metafile = true
@@ -545,11 +540,6 @@ hash = "52e6b263e3f474decf55f21e9ff5330da04e7102701480a49889f17c52191d10"
 metafile = true
 
 [[files]]
-file = "mods/neoculus-mc1.21.1-1.8.7.pw.toml"
-hash = "642c1e30626f3446d17e586e154b27d31e147688934ea39faa09274431e6b15f"
-metafile = true
-
-[[files]]
 file = "mods/nochatreports-neoforge-1.21.1-v2.9.1.pw.toml"
 hash = "f1500d5045a6ce441f96d5e4b20aac69ee2deac3da5c39981415d1444a8b9aaf"
 metafile = true
@@ -637,11 +627,6 @@ metafile = true
 [[files]]
 file = "mods/resourcefullib-neoforge-1.21-3.0.12.pw.toml"
 hash = "fb3e6685484f50ba70815681c6b3a3113ba0371d3ded405d2532940ef5a49798"
-metafile = true
-
-[[files]]
-file = "mods/rubidium-extra-0.5.7e+mc1.21-build.132.pw.toml"
-hash = "826fa39333d8ece75aa07d19bea0cec36e2421ec1a893622edb2409cf5aa5cfe"
 metafile = true
 
 [[files]]
@@ -1829,6 +1814,10 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 [[files]]
 file = "overrides/config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "eb93a0156b92ba8cd10071266c1f32c523776609674056e2f2b710bb3e80d7e5"
+
+[[files]]
+file = "overrides/config/iris.properties"
+hash = "2e2aa925b40be0c2e02df0468dd1ee8b7de2da70223681ba05a1d40b875b5dc3"
 
 [[files]]
 file = "overrides/config/irons_spellbooks-client.toml"
