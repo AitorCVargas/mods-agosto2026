@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packignore"
-hash = "844a7f364279fc88cc6172d5ebde1371a83594e866d7fdac9381e03049af47dc"
+hash = "c357cc3449b1a00ef9f18069c4fbd235d1e7616d9885b453932a8bb325749e4b"
 
 [[files]]
 file = "mods/1.21.1-securitycraft-v1.10.2.1.pw.toml"
@@ -3075,6 +3075,390 @@ file = "overrides/defaultconfigs/ftbessentials-server.snbt"
 hash = "92b8488b53c40f9be3d5414fe382c3e1c6d45f86850345b3bbcee1d212b5f125"
 
 [[files]]
+file = "overrides/mods/Apotheosis-1.21.1-8.7.0.jar"
+hash = "35c940e8ade3ee6999cb52efc2df3595ae91e515599d403d88583b6bf2afeedd"
+
+[[files]]
+file = "overrides/mods/ApothicAttributes-1.21.1-2.10.1.jar"
+hash = "1bbf7f66ce21aff82394f1fab2bbe794bc6b3ae846ac5e0317aa3e0a071b7f12"
+
+[[files]]
+file = "overrides/mods/ApothicEnchanting-1.21.1-1.6.0.jar"
+hash = "8ba11a9f69010173a3e70ec964f80e2b30f1cd11af404058497c606e57e47c15"
+
+[[files]]
+file = "overrides/mods/ApothicSpawners-1.21.1-1.4.0.jar"
+hash = "9b061f8d2d0807358fbb9d9afa240a26fc0a15362574ccbe629e472abc954857"
+
+[[files]]
+file = "overrides/mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
+hash = "0901963a4669b62c6521819e34bff259592782f616f934222c08862c8415126b"
+
+[[files]]
+file = "overrides/mods/Controlling-neoforge-1.21.1-19.0.5.jar"
+hash = "5144d3bd9cd1ff0f91bc0998441b7a53bd694f554a576caa11e79be620db436b"
+
+[[files]]
+file = "overrides/mods/CreateDragonsPlus-1.11.3.jar"
+hash = "fd0bd19d9d2f2d4d1a68781df2bf73032778c22d95da3c33f5a60327d6626a91"
+
+[[files]]
+file = "overrides/mods/DungeonsArise-1.21.1-2.1.68-release.jar"
+hash = "fe15cd09809defcb9ac75472deb7438cbb95c7784400bf9054579d648df2a3d0"
+
+[[files]]
+file = "overrides/mods/EasyAnvils-v21.1.0-1.21.1-NeoForge.jar"
+hash = "461e103b1691bfd1214122df2ec4038e4c03fb5d779338ed50358537027e4f4c"
+
+[[files]]
+file = "overrides/mods/EasyMagic-v21.1.4-1.21.1-NeoForge.jar"
+hash = "eeff4047c12b729b84cfb52974796ddbbb387facaab1767ea157bc0ac110c1e7"
+
+[[files]]
+file = "overrides/mods/ExplorersCompass-1.21.1-3.4.0-neoforge.jar"
+hash = "2e7e3fa560e6fbb0e164de002800376418d25ca82c51ab1467929f282e05bfae"
+
+[[files]]
+file = "overrides/mods/FarmersDelight-1.21.1-1.3.2.jar"
+hash = "af0fb4d111d94966e227c9cd6060158e42d8005ebe1d5a3cb4a99292f461f8dd"
+
+[[files]]
+file = "overrides/mods/FastFurnace-1.21.1-9.0.1.jar"
+hash = "bc73bddcb60295c4f0eb1a3e4ccf2e909a4efe1afa7fa10039622912b78d5505"
+
+[[files]]
+file = "overrides/mods/FastSuite-1.21.1-6.0.7.jar"
+hash = "4121a0f4877b270b4f243e3384a8376dcb505b6549efa1af0c23853dafd55de9"
+
+[[files]]
+file = "overrides/mods/FastWorkbench-1.21.1-9.1.3.jar"
+hash = "c3b104343436492f44251185a5d5001412d767408464037cd4aced0147d4b642"
+
+[[files]]
+file = "overrides/mods/FramedBlocks-10.6.1.jar"
+hash = "a0631d8c701e092bdedb0ca59767fd31b63e45ff4a376f1b4ce8d126a986b0a8"
+
+[[files]]
+file = "overrides/mods/Gobber-NeoForge-1.21.1-2.10.15.jar"
+hash = "99b233c7e2dfda6f8e8fa85a9e6530c8237119c40eacef88af829d223f453438"
+
+[[files]]
+file = "overrides/mods/Iceberg-1.21.1-neoforge-1.3.2.jar"
+hash = "6a8e1cd7afc496662b9991c3410df0bfa8e28d7f65d959fdb8f15e1137e1594f"
+
+[[files]]
+file = "overrides/mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+hash = "7b8e5753d5d5a58b30badf72cd6d33d196c75b1bd8fddb8a6faf5227db1fe4e1"
+
+[[files]]
+file = "overrides/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+hash = "14534e91980d20c293db5eab4fcbcf0fc14701e3fe4c5c91d4475b439767cadc"
+
+[[files]]
+file = "overrides/mods/L_Ender's Cataclysm 1.21.1-3.32.jar"
+hash = "2ee92c519e7c9ac281da2d0e5832a9cdf5cc3ffb86521c0b74febb1ffedf6b94"
+
+[[files]]
+file = "overrides/mods/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar"
+hash = "ff768d6451a2e70109df45b9e14f1115655ef5cf17be330445ffc18da929bc81"
+
+[[files]]
+file = "overrides/mods/MyNethersDelight-1.21.1-1.10.4.jar"
+hash = "5477c0bf335c6cc404991cc216a69a68257a717dfb04dfa5adc329617d39683a"
+
+[[files]]
+file = "overrides/mods/NaturesCompass-1.21.1-3.4.0-neoforge.jar"
+hash = "b80af0d8adf6e3b9456e57122027fe6b759af04ba6d11eb1acd0d1cb5c47eeb1"
+
+[[files]]
+file = "overrides/mods/Placebo-1.21.1-9.9.2.jar"
+hash = "1c334ab1f695460674e5c4acabf8056266f3bd6546472b0e7b0de88cfdb6babd"
+
+[[files]]
+file = "overrides/mods/PortableCraftingTable-neoforge-1.21.1-3.2.6.jar"
+hash = "61f158b46c7f543d538ed4713269203436cdfd702cce8ae44e972a382a188a03"
+
+[[files]]
+file = "overrides/mods/Ribbits-1.21.1-NeoForge-4.1.6.jar"
+hash = "95554855b1cf9d66e148ca5dca2e4e7cb614faf06c3e56352864bde32bb15279"
+
+[[files]]
+file = "overrides/mods/THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar"
+hash = "b8ee3ddff5b0c14259c21200e36c8bf321e3ecdc3ab181bf8a2d90e2bf140206"
+
+[[files]]
+file = "overrides/mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+hash = "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8"
+
+[[files]]
+file = "overrides/mods/ToastControl-1.21.1-9.0.1.jar"
+hash = "c05c0c0f3b36b822cfa982ae25a255af021c9fd49a07e23328c6c36bb082bce5"
+
+[[files]]
+file = "overrides/mods/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar"
+hash = "e2c5575c105472039eb9ee6960e6db3c5595439c5a530a4f6d5be47b03320411"
+
+[[files]]
+file = "overrides/mods/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
+hash = "32b99cf4372bcf56c3dbc9f2faf562f172a4418ee77c06972d680186c12c17a7"
+
+[[files]]
+file = "overrides/mods/YungsBetterEndIsland-1.21.1-NeoForge-3.1.2.jar"
+hash = "9381094ef909687b45cd416f582fb366fb7dcfdd8a0c5f8f70b00b9fbe1931ad"
+
+[[files]]
+file = "overrides/mods/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar"
+hash = "0ffbcd853479c7af0c1872e1dccc805160f5f82f1e35d4795a047d0996d54d6f"
+
+[[files]]
+file = "overrides/mods/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
+hash = "246389fd183bf8eca7c6dea2d8be08d9cb909d46c00e988deb55008a9cfaea1f"
+
+[[files]]
+file = "overrides/mods/YungsBetterNetherFortresses-1.21.1-NeoForge-3.1.5.jar"
+hash = "8a2249338a01d4a54753c8590c4cca3aa1dd7b0345f37d9dff32a2cde137df6b"
+
+[[files]]
+file = "overrides/mods/YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar"
+hash = "098be3e26a31436530d41b045d64c34159df9100b8d7d01c7c3a661bb8303650"
+
+[[files]]
+file = "overrides/mods/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar"
+hash = "fed887bc60891c3ff925d200040a40f3aed6a10b5c4378047517ff81cefecf30"
+
+[[files]]
+file = "overrides/mods/YungsBetterWitchHuts-1.21.1-NeoForge-4.1.1.jar"
+hash = "2b93e3c42b097c165aa687f28fb061477d69ec2938e1f4eaa80628cab1fa780f"
+
+[[files]]
+file = "overrides/mods/aether-1.21.1-1.5.10-neoforge.jar"
+hash = "272a70acf3a4ece5d0e61ede52125d5ea891c7566b72c0877d089392cee69feb"
+
+[[files]]
+file = "overrides/mods/alltheleaks-1.1.10+1.21.1-neoforge.jar"
+hash = "dd23d2822a77ca0a69639572a533d925c1b0b320dc9f8447525b2d6b7fd32f85"
+
+[[files]]
+file = "overrides/mods/almostunified-neoforge-1.21.1-1.4.2.jar"
+hash = "5756812184ecca82f12cc571e8f86256c08ec68fd5d8a7b418f25f50473282ee"
+
+[[files]]
+file = "overrides/mods/amendments-neoforge-1.21-2.1.7.jar"
+hash = "c0de924770e06af0e7b5d245b8a5abd56e3f0eff43207e74361bca90aae6a68f"
+
+[[files]]
+file = "overrides/mods/animal_feeding_trough-1.1.2+1.21-neoforge.jar"
+hash = "9c81a07c1ab73cdc2cc20d667be23067e41d9cb2b2243ffae4e4daf3b4c907f2"
+
+[[files]]
+file = "overrides/mods/another_furniture-neoforge-4.0.2.jar"
+hash = "d754ac915d27b849a47f170c727c8fef8573f44accd9267493cd48ae8622dfad"
+
+[[files]]
+file = "overrides/mods/artifacts-neoforge-13.2.1.jar"
+hash = "ef6fd9a0d81622aed205d9f97c5adb1e9c88b5cbb80925ee36792c8613e3ac2b"
+
+[[files]]
+file = "overrides/mods/beautify-neoforge-1.21.1-2.0.2.jar"
+hash = "3235ba566e5527d97a2a3dbbffa6b198315f73b4a9dc9afbe73ab3c01d328dca"
+
+[[files]]
+file = "overrides/mods/born_in_chaos_[Neoforge]_1.21.1_1.7.3.jar"
+hash = "03531cb0b7674307b9f61f442224d152e8fd4835029e0a859b7fb3de3277e0a6"
+
+[[files]]
+file = "overrides/mods/botanypots-neoforge-1.21.1-21.1.44.jar"
+hash = "12b86a80f328ce4d657407fd2439779867cc4330fd7bebf4e9507d36031f3a3e"
+
+[[files]]
+file = "overrides/mods/champions-neoforge-1.21.1-2.1.11.3.jar"
+hash = "0b046a8a3f7b8481d2cf1756eba89755ae49254703f7dc860387a305277de756"
+
+[[files]]
+file = "overrides/mods/chipped-neoforge-1.21.1-4.0.2.jar"
+hash = "b46a0fb185577ab9023068284d603944875dad4d8d35a19e1eddbb5db15aef16"
+
+[[files]]
+file = "overrides/mods/chisels-and-bits-neoforge-21.1.32.jar"
+hash = "982f4523abc12c5de1e84410f4e0ee29e134e854272c3bdb2c8fe24841a21265"
+
+[[files]]
+file = "overrides/mods/copycats-3.0.4+mc.1.21.1-neoforge.jar"
+hash = "4db275bd7f0b50a07cee1c0011934702931551c7c24951c7f53a8ba4ae1aae75"
+
+[[files]]
+file = "overrides/mods/crabbersdelight-1.21.1-1.2.6.jar"
+hash = "7c3b159c9a724e49bf2eb412ff969af1a2ec5bf68257ddf31a446c99f56cf5f0"
+
+[[files]]
+file = "overrides/mods/craftingtweaks-neoforge-1.21.1-21.1.10.jar"
+hash = "e39a59ca3c27417844265ef98784dd1bb575482476d77f95fc2f5ac4ec59a688"
+
+[[files]]
+file = "overrides/mods/create-1.21.1-6.0.10.jar"
+hash = "8ade5205a15f7631f479142f9f88f2ad50291e2259ccbf839a06f36865060f96"
+
+[[files]]
+file = "overrides/mods/create-enchantment-industry-2.5.0.jar"
+hash = "5d9fcc08e58bc88f0fcaec04407004e8574977d2ad8d10058d1a0c0a40f54690"
+
+[[files]]
+file = "overrides/mods/create_hypertube-0.6.0-NEOFORGE.jar"
+hash = "6730879a8184398603a6db2ee7f235f1387ba1e6dd2141abcf599bca88218ece"
+
+[[files]]
+file = "overrides/mods/createaddition-1.6.0.jar"
+hash = "7d32d3fab2904ba6dcfc4d8dd8863ddfb06ee5df67a7793bec970fafb54e252d"
+
+[[files]]
+file = "overrides/mods/crittersandcompanions-neoforge-1.21.1-2.6.2.jar"
+hash = "06ecb4bb1733e4c76421c795e056ffbb531450aa278d6d1650697d86b15fc7dd"
+
+[[files]]
+file = "overrides/mods/culturaldelights-0.17.8.jar"
+hash = "6b5dbe1208ccc17cef987926e94fd445b5f778b00b602b3ec0a5dbbbda73057e"
+
+[[files]]
+file = "overrides/mods/curios-neoforge-9.5.1+1.21.1.jar"
+hash = "ff6479b667a6140583f89d46e5fb17e2a6c6e370b063e9763797f12ad06b8d1c"
+
+[[files]]
+file = "overrides/mods/deeperdarker-neoforge-1.21.1-1.4.1.jar"
+hash = "47b45658fdbe8732b4a09bf34d34d109db4fb563308a8f13a4a08b7572f966c2"
+
+[[files]]
+file = "overrides/mods/easy-villagers-neoforge-1.21.1-1.1.42.jar"
+hash = "bb54054c91704b81cc94c9faf6a09643d08bb97fff9d4c4f0547de01da5ab460"
+
+[[files]]
+file = "overrides/mods/endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
+hash = "16b76970e18218fc0227add934824be30136ac50d287b1b6d95d0ca213e75d1e"
+
+[[files]]
+file = "overrides/mods/etched-5.1.0.jar"
+hash = "b2ee65c24586398ec7b9177f89f2896e707503110dddb20cfa64a265427a2822"
+
+[[files]]
+file = "overrides/mods/framework-neoforge-1.21.1-0.13.9.jar"
+hash = "343a040a90eaf2a1153e6be235f520ee73ae021d65fdc4c9a9fe28263bce9756"
+
+[[files]]
+file = "overrides/mods/ftb-chunks-neoforge-2101.1.13.jar"
+hash = "d0f0b569668ed6134ff8b9a020a5d0f1f68074b166a889a7c8422bd55e386c50"
+
+[[files]]
+file = "overrides/mods/ftb-essentials-neoforge-2101.1.8.jar"
+hash = "2a1a2db5300727288e5339b2b46a176a1c883526e39c538b8aaeee17505350a6"
+
+[[files]]
+file = "overrides/mods/ftb-library-neoforge-2101.1.28.jar"
+hash = "25cbdfe247d434b53726d7b054bf35c9455c3e9578ea66f0118b712a632c6f2d"
+
+[[files]]
+file = "overrides/mods/ftb-teams-neoforge-2101.1.7.jar"
+hash = "616f1bb15e8fb768f3f16c0a7c8b0a335965f817bb5547a0a7f41f027ae5ca6f"
+
+[[files]]
+file = "overrides/mods/goblintraders-neoforge-1.21.1-1.11.2.jar"
+hash = "34185ab2e4527c8b715434174579055ad5eff8fde1e2685e6ac10e48a343a171"
+
+[[files]]
+file = "overrides/mods/guardvillagers-2.4.10-1.21.1.jar"
+hash = "c76a70daf3fb8b5cff26c2bf50d1b7ee9fa72f6c437e6774b6697777aaa8460a"
+
+[[files]]
+file = "overrides/mods/handcrafted-neoforge-1.21.1-4.0.3.jar"
+hash = "5b2a10c9be97be2f6318811d3299588d20258ba5ad59b1a7e40c9a84e98519dd"
+
+[[files]]
+file = "overrides/mods/iceandfire-2.1-beta.1.jar"
+hash = "3e535d52938be22d594843fc3f747065e9d69d22b7366305b1b386b7de527aba"
+
+[[files]]
+file = "overrides/mods/irons_spellbooks-1.21.1-3.16.2.jar"
+hash = "04ca2c89397f245e2b701350e437fb086d67ef28b889c9dd0e10d13fd65e9c10"
+
+[[files]]
+file = "overrides/mods/jei-1.21.1-neoforge-19.43.0.392.jar"
+hash = "555192311bfb318cc08cd95bff301ddcd2626e426ddbd06844bebfb8599e3531"
+
+[[files]]
+file = "overrides/mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.jar"
+hash = "a8288069cd46f5d63543f7c0119bb0ae7f6a8c6d9aa7032c258b7e097cac9f04"
+
+[[files]]
+file = "overrides/mods/letsdo-brewery-neoforge-2.1.9.jar"
+hash = "0f1ad7761761d9834035feb83fe9c98f8c8249363d3a7e25c11601e49b7f5dd0"
+
+[[files]]
+file = "overrides/mods/letsdo-farm_and_charm-neoforge-1.1.23.jar"
+hash = "1254c2a3b832e4674abbb98fbfe023afed9e756c564ba4dd1a7cb3c7c5f0b72a"
+
+[[files]]
+file = "overrides/mods/modernfix-neoforge-5.27.20+mc1.21.1.jar"
+hash = "c8c6cba33c6cc495f460fe5929dc7c1c5200b140a848cffd67571f75f367d153"
+
+[[files]]
+file = "overrides/mods/netherskeletons-5.1-neoforge-1.21.1.jar"
+hash = "8fea3dd9029c15ec36c9920b81d52bd948a525ab099c790adabd1482d58233c3"
+
+[[files]]
+file = "overrides/mods/reconstructedwands-neoforge-1.21.1-1.1.4.jar"
+hash = "08421ec62852577c9fc1af4acef26b9d0c9db73e64269eeb49a5c9ba08f51132"
+
+[[files]]
+file = "overrides/mods/refurbished_furniture-neoforge-1.21.1-1.0.20.jar"
+hash = "03bc199a1ff2f846df101752cea38f2f014a47cefe1c3c5468abd502cd6ab40c"
+
+[[files]]
+file = "overrides/mods/repurposed_structures-7.5.21+1.21.1-neoforge.jar"
+hash = "bb7b0df6b70e7b570507fc525fe8f423aff761396d261296696300e28a6ca94e"
+
+[[files]]
+file = "overrides/mods/rightclickharvest-neoforge-4.6.1+1.21.1.jar"
+hash = "468cc55e8fcac15f13f3ea9de69a00e44b2f492551d05504869c2f527fac4e1d"
+
+[[files]]
+file = "overrides/mods/sliceanddice-4.3.3-neoforge.jar"
+hash = "497875c97573d8da19750ac7dd02fbb2a5ce24797fd3ca93df23a42c0b54f703"
+
+[[files]]
+file = "overrides/mods/sophisticatedbackpacks-1.21.1-3.25.73.2020.jar"
+hash = "396d405e9aff4e0867bae1eccea1238429d830d2f8a457c3bf3647835dc29dd5"
+
+[[files]]
+file = "overrides/mods/sophisticatedcore-1.21.1-1.4.80.2194.jar"
+hash = "f4965df484938bf8c07c0281927ba6856abd1d6c31d8e2ad1ffd365514c43985"
+
+[[files]]
+file = "overrides/mods/sophisticatedstorage-1.21.1-1.5.83.2017.jar"
+hash = "82dba0324ed000410c6407248c7126d6b57bf7d73304ec47e2d7751bf82fb72a"
+
+[[files]]
+file = "overrides/mods/supplementaries-neoforge-1.21.1-3.8.5.jar"
+hash = "0476c968d12895987c9e8ccef1a84a7f8d1f296d27103e883a911350b4157747"
+
+[[files]]
+file = "overrides/mods/tombstone-neoforge-1.21.1-9.4.8.jar"
+hash = "9175de0d2934149f5d7e1c1a5a94b846a04a6e7a560df87570987f2f77b8d970"
+
+[[files]]
+file = "overrides/mods/torchmaster-neoforge-1.21.1-21.1.9.jar"
+hash = "d2a0c089f4889b934031e295d30cf14c18db2dbb571f2b7106ed636129e88072"
+
+[[files]]
+file = "overrides/mods/trashslot-neoforge-1.21.1-21.1.11.jar"
+hash = "2f9e7382e6390a3e37655b9c98646ebb26ff91769df6b550feb1e88758bd44b2"
+
+[[files]]
+file = "overrides/mods/twilightforest-1.21.1-4.8.3287-universal.jar"
+hash = "5ed1d20e11827db9d1757ff7a080a9640285ad18b858c83893d43795a3c20f7c"
+
+[[files]]
+file = "overrides/mods/waystones-neoforge-1.21.1-21.1.24.jar"
+hash = "34bd840a3bf8d6934c9bf6f11ce6540ab2decbf5c5039c0b9aaba3b2979ceae3"
+
+[[files]]
 file = "overrides/options.txt"
 hash = "035c00807167398227eacd9624b7cfaba14ee97abf6141f666a4d1a7fea84a98"
 
@@ -3099,5 +3483,69 @@ file = "overrides/resourcepacks/Pack_ES_Extra.zip"
 hash = "0cde91184cb62ae1d19fced7c1d1504dd57929754c93914f391b7e00bf529271"
 
 [[files]]
+file = "overrides/shaderpacks/BSL_v10.1.3.zip"
+hash = "185774628b5259c36255183fc1adeb0f64f89235f7ea2c826fa327d1112687a8"
+
+[[files]]
+file = "overrides/shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
+hash = "f41db92acc585fe9ffe0cc124d6ecaea27cef9ded91129ebc2a8e60226947b2c"
+
+[[files]]
+file = "overrides/shaderpacks/ComplementaryReimagined_r5.8.1.zip"
+hash = "3f1cd389e717b2e62f58edff222059b9c60de71b14bb49b517eb58318ce35b15"
+
+[[files]]
+file = "overrides/shaderpacks/ComplementaryUnbound_r5.8.1.zip"
+hash = "bb89b1fc54687d4147a837fb2e3c3f7261a13bee51819761e9b6a91cb7915965"
+
+[[files]]
+file = "overrides/shaderpacks/FastPBR_v2.0.zip"
+hash = "0b10863d5671e97749cf904a51afa0c2ea98cd3502a4ae53b8df1cc56d0cbce6"
+
+[[files]]
+file = "overrides/shaderpacks/Insanity-Shader-Universal-v1.650.zip"
+hash = "ed0ece7500307584a7bba09a872fde39df78fcfa1b90f3e4fac36da60e96a511"
+
+[[files]]
+file = "overrides/shaderpacks/MakeUp-UltraFast-9.5c.zip"
+hash = "8b62b38e6572f230b89035a14c13f596e85c29a7a7422d6a654204aac9ee8a05"
+
+[[files]]
+file = "overrides/shaderpacks/Mellow Shader v3.3.zip"
+hash = "20410e9d70d120f97b219f17d9b771c7bab1e2de2d97d7f65caa5207e57012c0"
+
+[[files]]
+file = "overrides/shaderpacks/Nostalgia_v5.1.zip"
+hash = "7d7211af2fac6d9b3c7fcbaad7a47f1a612450376d14383088908831c18b6cc8"
+
+[[files]]
+file = "overrides/shaderpacks/PotatoShaders_v1.0d.zip"
+hash = "55aa21562dbc2860fd466719908437a8bc22ad358a673fb3c119e4bcdf1616af"
+
+[[files]]
+file = "overrides/shaderpacks/Shrimple_v0.12.zip"
+hash = "702c2497ee23a62f84c920eb897730519e80db04522171a31dce1e9166fb92fb"
+
+[[files]]
+file = "overrides/shaderpacks/Solas Shader V3.7.zip"
+hash = "c8f53e66e567f2e8eacddbcc31ecbb6d77ac5f594d19423247c2a96c44d96a47"
+
+[[files]]
 file = "overrides/shaderpacks/photon_v1.3b.txt"
 hash = "6fb38552337a0d8a879d7d168ada0f8dc80ab2021da0e4ba55261353dd0802bf"
+
+[[files]]
+file = "overrides/shaderpacks/photon_v1.3b.zip"
+hash = "120897768eaa8cb1f14a3e98f88dff009ae3204ee3b96904a4fe8586edfc1ead"
+
+[[files]]
+file = "overrides/shaderpacks/rethinking-voxels_r0.1-beta9.zip"
+hash = "a8cd9d4338c7d3d1fffecc4525348a31ea3d219ef31382c51d5ddc3b4b0114e1"
+
+[[files]]
+file = "overrides/shaderpacks/superDuperVanilla.zip"
+hash = "c1cd481ac7ec81b6cb82f162b235509568f6f1ab9e416ccfedaee15e79e1a795"
+
+[[files]]
+file = "overrides/shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip"
+hash = "70b6d8127a6733f0a19bd1d351b92709d6ee7496967ff49c4793d2c28c7a6c58"
