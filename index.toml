@@ -1811,6 +1811,10 @@ file = "overrides/config/fancymenu/customizablemenus.txt"
 hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
 
 [[files]]
+file = "overrides/config/fancymenu/customization/omnia_title_screen.txt"
+hash = "91e5a1fa55deb009abd6cc17a8a1709929325189b48e95a88d2bfd30ca871f65"
+
+[[files]]
 file = "overrides/config/fancymenu/legacy_checklist.txt"
 hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 

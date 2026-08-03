@@ -1,0 +1,66 @@
+type = fancymenu_layout
+
+layout-meta {
+  identifier = title_screen
+  render_custom_elements_behind_vanilla = false
+  last_edited_time = 1785767090306
+  is_enabled = true
+  randommode = false
+  randomgroup = 1
+  randomonlyfirsttime = false
+  layout_index = 0
+  [loading_requirement_container_meta:14823c8f-66c4-49bc-9543-9b800ba60b5d-1785767090306] = [groups:][instances:]
+}
+
+vanilla_button {
+  button_element_executable_block_identifier = b29fa4ed-b497-4f79-8ee7-feef128d4231-1785767090306
+  [executable_block:b29fa4ed-b497-4f79-8ee7-feef128d4231-1785767090306][type:generic] = [executables:f44924cc-a137-4d67-ad28-434bff127426-1785767090306;]
+  [executable_action_instance:f44924cc-a137-4d67-ad28-434bff127426-1785767090306][action_type:joinserver] = 161.132.49.83:25570
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_multiplayer_button
+  label = §b§lEntrar a OMNIA
+  is_hidden = false
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_singleplayer_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_realms_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_options_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_quit_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_language_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = mc_titlescreen_accessibility_button
+  is_hidden = true
+}
+
+vanilla_button {
+  element_type = vanilla_button
+  instance_identifier = forge_titlescreen_mods_button
+  is_hidden = true
+}
+
