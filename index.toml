@@ -745,30 +745,9 @@ hash = "47146d6393d03b277030c9f88df51451eb64a772c11d259fabb9f5b7fb33092a"
 metafile = true
 
 [[files]]
-file = "mods/zfastnoise-1.0.13+1.21.1+neoforge.pw.toml"
-hash = "e5aa1cb6c4be871034fab3e8757300f03da457a625e3186723d0851d7355cb23"
-metafile = true
-
-[[files]]
 file = "mods/zremove_sdl_intro_v1.2.2.pw.toml"
 hash = "9035ed254795d58bbe4607567fb93b4e96d1069c653a10948572395f005b896a"
 metafile = true
-
-[[files]]
-file = "overrides/config/Icl/ICL.json"
-hash = "a8d923693962c540b6c169201224ae007b59c95059794cd8596d34fbc99a607a"
-
-[[files]]
-file = "overrides/config/Icl/lang/en_us.json"
-hash = "79303f4efd2fe3c1762308a5c6f8a781e9ad2e7ff4ce69c66902178be1e9fecf"
-
-[[files]]
-file = "overrides/config/Icl/lang/ru_ru.json"
-hash = "197a284e3ccf61087ffbe626ad649d947699fa3540d0ef078df2fae3ffb211ab"
-
-[[files]]
-file = "overrides/config/Icl/lang/zh_cn.json"
-hash = "d8d479232824954089a68c78de5eb2465ba17d7342de596b45d39f34412a75ad"
 
 [[files]]
 file = "overrides/config/MouseTweaks.cfg"
@@ -1295,10 +1274,6 @@ file = "overrides/config/createfood-server.toml"
 hash = "504bf2cd1a3e0ab051626541fa91e8388cf7001d1ff4df68cd666f9860e47d1d"
 
 [[files]]
-file = "overrides/config/creategoggles-client-1.toml.bak"
-hash = "25edef4958af768d49d6f2bb1a184e2e78d2d15017c8f1ba6937e85d595561a8"
-
-[[files]]
 file = "overrides/config/creategoggles-client.toml"
 hash = "a7388317bf092e58a7a4aee6bf6ee22f6a2ae5adaabff30e6ca07b3260eeee42"
 
@@ -1707,10 +1682,6 @@ file = "overrides/config/embeddium-mixins.properties"
 hash = "708750dc530ed52462185c7b1421291db8b292a350e164daaad437ba6f4fe4ef"
 
 [[files]]
-file = "overrides/config/embeddium-options.json"
-hash = "2a0ecd6e2438d543a3a1a16fedb817fe688aeefbd6dc1e05cc67224568ca0fe8"
-
-[[files]]
 file = "overrides/config/emotecraft.json"
 hash = "34371cc35bcec3a7068e3d8d669d8847d4e45eb7a9afe5858f25ce84edef40f3"
 
@@ -2023,10 +1994,6 @@ file = "overrides/config/jei/recipe-category-sort-order.ini"
 hash = "fad43b4251f46fae9015cb6dfb510e6f602aae368e4b867bf3faf73d2cca3517"
 
 [[files]]
-file = "overrides/config/jei/world/local/Mundo nuevo/lookupHistory.json"
-hash = "66f5e03541643f306bd934ec01f3f0df70eaa57a13c8770456692128aa5560e8"
-
-[[files]]
 file = "overrides/config/jeresources-common.toml"
 hash = "b8e340097e9b479a5d66593f01c1c84a8a8fdc1ed960eccb11676ee7612537e2"
 
@@ -2201,10 +2168,6 @@ hash = "9c778ddd77611b3e60de62e3dca792ae9605e845e0a2e5bbfaccccccc7371eff"
 [[files]]
 file = "overrides/config/occultism-startup.toml"
 hash = "698caa85370cc13d2a6d636ec9ce9b5ed2dc8d813c8b89162ceda4136f66931e"
-
-[[files]]
-file = "overrides/config/oculus.properties"
-hash = "6287a3525fcf69fdeb413ebb24a3141e9d9fc618c7a3ef63b08a7af75d7e31f0"
 
 [[files]]
 file = "overrides/config/particle_core_config.toml"
