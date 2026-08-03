@@ -250,6 +250,11 @@ hash = "6da7752b3fd62757039cc34dd4028d7c04ca009e51883f7ea8f1b43932ebf20c"
 metafile = true
 
 [[files]]
+file = "mods/first-person-model.pw.toml"
+hash = "4188848019233432861e98a5cc72aebed8c68a8a0909007967ab11827f8a6508"
+metafile = true
+
+[[files]]
 file = "mods/fzzy_config-0.7.6+1.21+neoforge.pw.toml"
 hash = "3b8f27dd6e94f2ea6fbd9496757abb6a9f24ea99f392a31266b8ab6787444a6c"
 metafile = true
@@ -502,6 +507,11 @@ metafile = true
 [[files]]
 file = "mods/noisium-neoforge-2.7.0+mc1.21-1.21.1.pw.toml"
 hash = "3feb7bfff0e84cd1eff3222d354ea05fb0cca3c46dc230edb8c6a6cc8f4cb476"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "e92633222b9275744ba9ae7a90781494f67933924b56ea8287c5dc7553e77e17"
 metafile = true
 
 [[files]]
