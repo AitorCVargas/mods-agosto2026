@@ -1800,7 +1800,7 @@ hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "d4bc20dadd3b6329204d64e50e2dc7e243ee3ab8948695f4c4586079d8a21e34"
+hash = "83533a43ef2c006f067e570bad1f3f65982593cf5499ca961f6aae8282cbfbc9"
 
 [[files]]
 file = "overrides/config/fallingtree.json"
@@ -1808,11 +1808,11 @@ hash = "9704d03d869a866e68c5e783025c8720df6d35e3e76c56080e08e9bf6473a341"
 
 [[files]]
 file = "overrides/config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
+hash = "d0adf4b68c7483991a2645eaeabdaf88b9eb19ee242bda6acb96b6fdfcb76fd1"
 
 [[files]]
 file = "overrides/config/fancymenu/customizablemenus.txt"
-hash = "535db450a125a856472e38d6c9cd7ed94961e83a9c19fcaab25c6b6ccb515c60"
+hash = "4c68ab99c906dd487952f61bf33c0635039a8bbff3f02099e3cd8272fe51b4aa"
 
 [[files]]
 file = "overrides/config/fancymenu/customization/omnia_title_screen.txt"
@@ -1888,7 +1888,7 @@ hash = "d7758765c46e7dcceb15b7534aa42afc0e104c90a8fabcf961395d668ee16035"
 
 [[files]]
 file = "overrides/config/ftbchunks-client.snbt"
-hash = "f0e166d9396631e65ae101cc15ae7ac8c3f2e39b3f304f89d826ffcf685c0302"
+hash = "acf1b305250671193bae9472e80294abaab043dcc452c135ecc5c72e61b188a1"
 
 [[files]]
 file = "overrides/config/ftbchunks-world.snbt"
@@ -1980,7 +1980,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "7365dcbeeed7e3079386dbe2e5c59a90754393b6e4089cded10913d18dc991aa"
+hash = "e4a7f1bfd2d3a40eaad7095c51fdfe24ef4b5a20e822691c8f427e76e638a404"
 
 [[files]]
 file = "overrides/config/irons_spellbooks-client.toml"
@@ -2396,7 +2396,7 @@ hash = "b627c4456e6fa0bc4b5f85e2f1cd949faedae3cb9afdaf2a5f52e6f3b6ae1f01"
 
 [[files]]
 file = "overrides/config/sodium-options.json"
-hash = "a0048ec39b5de51f929b33c63e209a414f391c8ab1b80178b4545704e4c7b1dc"
+hash = "bd1065327cf7e15b66145b9b6636c4ba4f761f0bbf62c6c278fa4ed800bb8e38"
 
 [[files]]
 file = "overrides/config/sophisticatedbackpacks-common.toml"
@@ -3080,7 +3080,7 @@ hash = "34bd840a3bf8d6934c9bf6f11ce6540ab2decbf5c5039c0b9aaba3b2979ceae3"
 
 [[files]]
 file = "overrides/options.txt"
-hash = "9bd0860f32c8f6af75bf2db73a66ee16308d0f5f0c001e581390a8a36eec9a8a"
+hash = "b4ff189cf0f6232b3c6a7860d500dc0a6a5700031723648d2d77220edf3084c8"
 
 [[files]]
 file = "overrides/resourcepacks/FA_Player_Extension_v1.1.zip"
