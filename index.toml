@@ -30,6 +30,11 @@ hash = "83183cf08a0a8b40f55501be91a4e8890fcd408b8238c6e9cc1833c5fe29b682"
 metafile = true
 
 [[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "d2b68993a2ea12c5eaa623630a1d1fbf5cf6b98ffbeade303d9e9ad62a445050"
+metafile = true
+
+[[files]]
 file = "mods/appleskin-neoforge-mc1.21-3.0.9.pw.toml"
 hash = "ea1e4ec2cb0654f0772d9c76bfdcd5a2cb01d8438f78542145ecdc286d4be438"
 metafile = true
@@ -625,6 +630,11 @@ hash = "93675495fbb5de82cdd871ecbe3f550829b22e969887ecb9031e7abcfe996882"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "cca4b10598ae8cedcc2a6531a422453d624ceb4d1de1163ce46255415ccda045"
+metafile = true
+
+[[files]]
 file = "mods/smartbrainlib-neoforge-1.21.1-1.16.11.pw.toml"
 hash = "6a72e61fd253c609036d263b9b447bc7a31f1a3ce9970606931b31d7eb121c97"
 metafile = true
@@ -647,6 +657,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9cff55b64b62831e1be78c469b6758829f9d15016c6b12ea2d5103c3263f510e"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "258a77de0a6db4c9ab045cbb240bcf4eac0dbbca3f6bc981fb461e55c247f23f"
 metafile = true
 
 [[files]]
