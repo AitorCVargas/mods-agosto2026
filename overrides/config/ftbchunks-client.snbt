@@ -135,16 +135,16 @@
 		entity_icon: {
 			"aether:moa": true
 			"aether:flying_cow": true
-			"aether:cockatrice": true
-			"aether:aerwhale": true
+			"aether:sheepuff": true
+			"aether:aechor_plant": true
 			"aether:evil_whirlwind": true
 			"aether:aerbunny": true
-			"aether:blue_swet": true
-			"aether:sheepuff": true
+			"aether:aerwhale": true
 			"aether:phyg": true
 			"aether:golden_swet": true
 			"aether:zephyr": true
-			"aether:aechor_plant": true
+			"aether:cockatrice": true
+			"aether:blue_swet": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)

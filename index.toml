@@ -1664,7 +1664,7 @@ hash = "4502bef407cdfb04f45ac1da3516bdc52014420e80fbc44b195ff061332cd953"
 
 [[files]]
 file = "overrides/config/cumulus_menus-client.toml"
-hash = "5e018957cbb45da930ee7d364f4b76d4580ac99c14f215a933bbc46306b26c57"
+hash = "67ee7174a627bed3f9355a054a081201ffb76b7c96c7f8a41f5c9c5908cbfc1d"
 
 [[files]]
 file = "overrides/config/curios-client.toml"
@@ -1800,7 +1800,7 @@ hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
 
 [[files]]
 file = "overrides/config/fabric/indigo-renderer.properties"
-hash = "f52719183c18ba90dd6f668888aca7e884cb56f8466ae169c7cb3a4fca4c1d4b"
+hash = "82707be6a7a0c31ce9e429746358959ddd5d370a88484d5b332b72216e9a21b5"
 
 [[files]]
 file = "overrides/config/fallingtree.json"
@@ -1884,7 +1884,7 @@ hash = "d7758765c46e7dcceb15b7534aa42afc0e104c90a8fabcf961395d668ee16035"
 
 [[files]]
 file = "overrides/config/ftbchunks-client.snbt"
-hash = "0762e0629a94d437363a1ea8f5e1f13197c5cf605840efb6dde16ddfad52bcfa"
+hash = "653d4cbe01a07ffcfcfc0bac603316842c1f89dc89698cf92989f4229642210a"
 
 [[files]]
 file = "overrides/config/ftbchunks-world.snbt"
@@ -1976,7 +1976,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "be1deeb961acb76bb0f5a866e14aeab5d681316edb96dce49ed4183d972571ec"
+hash = "c8238d27f278cd65902abccdaad611bc056e2ffdbb0c6ab46790776fbcdc1899"
 
 [[files]]
 file = "overrides/config/irons_spellbooks-client.toml"
