@@ -963,14 +963,6 @@ file = "overrides/config/betterdeserttemples-neoforge-1_21.toml"
 hash = "c7355a13f2f7c4eeb3332ab67a2315e0662c7e5b434dc33d4624fccb9e815240"
 
 [[files]]
-file = "overrides/config/betterdeserttemples/README.txt"
-hash = "a8248503b691a780ba45cf033a8d74f1f878d27f119f1d8b4b80b2b8745f62db"
-
-[[files]]
-file = "overrides/config/betterdeserttemples/neoforge-1_21/README.txt"
-hash = "80ba474fdd1912739a1dc3326de6539ccfceb9d5c97f540131b567e295a7b112"
-
-[[files]]
 file = "overrides/config/betterdeserttemples/neoforge-1_21/armorstands.json"
 hash = "ebb175b076f7bebe5b807e4d7fda583cae43e26d2e1765b3e2263d6fc52bffe3"
 
@@ -991,14 +983,6 @@ file = "overrides/config/betterfortresses-neoforge-1_21.toml"
 hash = "0bef433c8253f63704694528c33dc854f2b28da084d420a61c43fd62d6e5301b"
 
 [[files]]
-file = "overrides/config/betterfortresses/README.txt"
-hash = "5643f5af88b445a96f2c6ea167b97cc640059eda5c849ed3c7b8d5023ab51a86"
-
-[[files]]
-file = "overrides/config/betterfortresses/neoforge-1_21/README.txt"
-hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
-
-[[files]]
 file = "overrides/config/betterfortresses/neoforge-1_21/itemframes.json"
 hash = "1fef2ed1b1543ca4434852f44b00fdb130cd6a5bc8c4b2b7081e1018ea73d189"
 
@@ -1017,14 +1001,6 @@ hash = "6c09d2a75810e76c719b355c3480d1dc14b135f944f4a85d2118a395efc916c5"
 [[files]]
 file = "overrides/config/betterstrongholds-neoforge-1_21.toml"
 hash = "3f2ae4edfb2c45137f14dc6a1a4f02958735b9831c0762d19d9e57fe4ff72346"
-
-[[files]]
-file = "overrides/config/betterstrongholds/README.txt"
-hash = "cd97289ac49b09b032d9c69a2f893b8fa9f73849b4adb9f63f8486a83bf2fd5a"
-
-[[files]]
-file = "overrides/config/betterstrongholds/neoforge-1_21/README.txt"
-hash = "5aad271e60a03218eb5207dd78df8d1d36c676f212bf823701e33646010d2f19"
 
 [[files]]
 file = "overrides/config/betterstrongholds/neoforge-1_21/armorstands.json"
