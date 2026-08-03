@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
 
 [[files]]
@@ -686,7 +686,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "abc285fb28b8df872e4c2bb31e04fc23e2724d9c84b4cb6fbc4320fc569c758f"
+hash = "9cff55b64b62831e1be78c469b6758829f9d15016c6b12ea2d5103c3263f510e"
 metafile = true
 
 [[files]]
@@ -1832,7 +1832,7 @@ hash = "eb93a0156b92ba8cd10071266c1f32c523776609674056e2f2b710bb3e80d7e5"
 
 [[files]]
 file = "overrides/config/iris.properties"
-hash = "2e2aa925b40be0c2e02df0468dd1ee8b7de2da70223681ba05a1d40b875b5dc3"
+hash = "6287a3525fcf69fdeb413ebb24a3141e9d9fc618c7a3ef63b08a7af75d7e31f0"
 
 [[files]]
 file = "overrides/config/irons_spellbooks-client.toml"
