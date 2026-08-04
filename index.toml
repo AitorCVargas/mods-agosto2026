@@ -958,7 +958,7 @@ hash = "94d584e93f86976673fc36fd3834f407444a452199fc4bb9adff6ba320c3e881"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "9231c55a014bdb6b413e84445c0d0043fe07f90845a3aec5f3ff00b600cca11a"
+hash = "8cfdb80f4e3c802e737a9ac05f019c35ca284f86454d40c6cccc89b198050496"
 
 [[files]]
 file = "config/entity_texture_features.json"
