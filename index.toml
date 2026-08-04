@@ -982,7 +982,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/evilcraft-common.toml"
-hash = "95fb58f24a9a7d340d1954f682e99914e653b2a3acee17163262ac2784930689"
+hash = "85b6441c20f7cc8d37f027f9b338078a058cb349ff883273335c5f2ca1c7360c"
 
 [[files]]
 file = "config/explorerscompass-client.toml"
