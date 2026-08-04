@@ -1894,7 +1894,7 @@ hash = "fde3ff8cd0f093acbf0aa2069917a8f647fd623eaca5d71f1fa980966ddda9f9"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap.config"
-hash = "db83cd7e061aaa025fe7b6af4396674f9c0c19118d855b0d477a21fc2b3b57c6"
+hash = "e760d4e6750b5a55a6d50d016cac81531d5b600a11cbc5cad7135f596b7097b5"
 
 [[files]]
 file = "journeymap/config/6.0/journeymap.minimap2.config"
