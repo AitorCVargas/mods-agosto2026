@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = ".packignore"
-hash = "328f03b5a6f2dafacccfde4c24740e621fd3c7ad9475655b129650da993573f1"
+hash = "2b58bfda0134f77e24e42bb9ac658c06462a22d9cb13853cea188dfba8c13f7c"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -83,10 +83,6 @@ hash = "2437057bda7e53d91e7a8c400da308a8d848fbdcc80ed845a9c8dbdabd071482"
 [[files]]
 file = "config/almanac-common.toml"
 hash = "43303ea5835f439a1fc1e7eb771834cfce26450a2381ad192621e4ed5532ff29"
-
-[[files]]
-file = "config/almostunified/debug.json"
-hash = "435ad46870d033c8652097d64c6ec592907e5ab6f1877240532a6a1743d4fca5"
 
 [[files]]
 file = "config/almostunified/duplicates.json"

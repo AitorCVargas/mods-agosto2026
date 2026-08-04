@@ -3,6 +3,7 @@ logs/**
 crash-reports/**
 screenshots/**
 journeymap/data/**
+config/almostunified/debug.json
 *.mrpack
 .git/**
 *.md
