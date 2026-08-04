@@ -1,0 +1,13 @@
+name = "Login Security - Panda"
+filename = "guardapanda-1.21.1-1.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/pHKnXUKq/versions/2gXnLZ7Q/guardapanda-1.21.1-1.1.jar"
+hash-format = "sha512"
+hash = "0ef18fb83a0d284a94e4e3e495b1365ca45de2239f6692deb243a9597a9ca53e5fb248b07e32e63498bf88387a8f5ef46e53552ca8b01d68ff5d1372dcb869db"
+
+[update]
+[update.modrinth]
+mod-id = "pHKnXUKq"
+version = "2gXnLZ7Q"
