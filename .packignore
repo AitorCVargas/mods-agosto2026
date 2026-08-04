@@ -1,8 +1,9 @@
-overrides/saves/**
-overrides/logs/**
-overrides/crash-reports/**
-overrides/screenshots/**
-overrides/journeymap/data/**
+saves/**
+logs/**
+crash-reports/**
+screenshots/**
+journeymap/data/**
 *.mrpack
 .git/**
 *.md
+packwiz.exe
