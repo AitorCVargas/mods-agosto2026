@@ -1,0 +1,13 @@
+[client]
+
+	[client.advanced.autoUpdater]
+	# El pack fija la version de DH via packwiz; evitar que se auto-actualice y rompa el pin.
+	enableAutoUpdater = false
+	enableSilentUpdates = false
+
+	[client.advanced.graphics.quality]
+	# Perfil bajo: el horizonte se ve lejos aunque el render distance real sea 4-8 chunks.
+	lodChunkRenderDistanceRadius = 64
+	maxHorizontalResolution = "FOUR_BLOCKS"
+	horizontalQuality = "LOW"
+	verticalQuality = "LOW"
