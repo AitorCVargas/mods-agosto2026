@@ -2965,8 +2965,8 @@ hash = "f14c334bd2e6c20d63316597e7f02336a4952677f6d42f8923339d0e717cd01e"
 metafile = true
 
 [[files]]
-file = "mods/smoothboot-neoforge+1.21-1.0.0.pw.toml"
-hash = "0e7ef2d2408b4ba742b6949078e08385f6cba802c9dcff4539367a302578b2ba"
+file = "mods/smooth-boot.pw.toml"
+hash = "792770e773b1c15870ac7b80b42d3c8f4483d70f0e5594c9af35977a0b1f01c6"
 metafile = true
 
 [[files]]
