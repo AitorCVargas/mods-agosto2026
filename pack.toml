@@ -1,12 +1,12 @@
 name = "OMNIA"
 author = "Aitor"
-version = "1.5.1"
+version = "1.5.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "14007503c5677d264d3694c5c4084128bbe832e2ad22f759d32ae4ae98ef8a7c"
+hash = "1ed5dc0c97888eabf90d96bb6a3b8d6c27622775d30e04e80ae4e41bf1dd3923"
 
 [versions]
 minecraft = "1.21.1"
