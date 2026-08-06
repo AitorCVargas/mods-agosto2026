@@ -5,10 +5,6 @@ file = ".packignore"
 hash = "2b58bfda0134f77e24e42bb9ac658c06462a22d9cb13853cea188dfba8c13f7c"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "ffce120af9bb143f252c7811cffa2c8e55b1e770e67bbacb6efa3a156da45dc5"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -2405,11 +2401,6 @@ hash = "47b45658fdbe8732b4a09bf34d34d109db4fb563308a8f13a4a08b7572f966c2"
 [[files]]
 file = "mods/diagonalfences-v21.1.1-1.21.1-neoforge.pw.toml"
 hash = "5dfa34d3e39bf65b0249e23bee9c1e3d32c63a60c7c261c45859ff7a6c2a0f8d"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "7c76639f902707fb69ee6f32372b47de56a8d52ae1c5d152673566b8afd0e023"
 metafile = true
 
 [[files]]
